@@ -1,0 +1,22 @@
+S:\BizRuntime\training\ASP_CRUD_CORE\ASP_CRUD_CORE\bin\Debug\netcoreapp2.0\ASP_CRUD_CORE.deps.json
+S:\BizRuntime\training\ASP_CRUD_CORE\ASP_CRUD_CORE\bin\Debug\netcoreapp2.0\ASP_CRUD_CORE.runtimeconfig.json
+S:\BizRuntime\training\ASP_CRUD_CORE\ASP_CRUD_CORE\bin\Debug\netcoreapp2.0\ASP_CRUD_CORE.runtimeconfig.dev.json
+S:\BizRuntime\training\ASP_CRUD_CORE\ASP_CRUD_CORE\bin\Debug\netcoreapp2.0\ASP_CRUD_CORE.dll
+S:\BizRuntime\training\ASP_CRUD_CORE\ASP_CRUD_CORE\bin\Debug\netcoreapp2.0\ASP_CRUD_CORE.pdb
+S:\BizRuntime\training\ASP_CRUD_CORE\ASP_CRUD_CORE\obj\Debug\netcoreapp2.0\ASP_CRUD_CORE.csprojAssemblyReference.cache
+S:\BizRuntime\training\ASP_CRUD_CORE\ASP_CRUD_CORE\obj\Debug\netcoreapp2.0\ASP_CRUD_CORE.csproj.CoreCompileInputs.cache
+S:\BizRuntime\training\ASP_CRUD_CORE\ASP_CRUD_CORE\obj\Debug\netcoreapp2.0\ASP_CRUD_CORE.AssemblyInfoInputs.cache
+S:\BizRuntime\training\ASP_CRUD_CORE\ASP_CRUD_CORE\obj\Debug\netcoreapp2.0\ASP_CRUD_CORE.AssemblyInfo.cs
+S:\BizRuntime\training\ASP_CRUD_CORE\ASP_CRUD_CORE\obj\Debug\netcoreapp2.0\ASP_CRUD_CORE.dll
+S:\BizRuntime\training\ASP_CRUD_CORE\ASP_CRUD_CORE\obj\Debug\netcoreapp2.0\ASP_CRUD_CORE.pdb
+F:\Bizruntime\Workspace\ASP.net core\ASP_CRUD_CORE\ASP_CRUD_CORE\bin\Debug\netcoreapp2.0\ASP_CRUD_CORE.deps.json
+F:\Bizruntime\Workspace\ASP.net core\ASP_CRUD_CORE\ASP_CRUD_CORE\bin\Debug\netcoreapp2.0\ASP_CRUD_CORE.runtimeconfig.json
+F:\Bizruntime\Workspace\ASP.net core\ASP_CRUD_CORE\ASP_CRUD_CORE\bin\Debug\netcoreapp2.0\ASP_CRUD_CORE.runtimeconfig.dev.json
+F:\Bizruntime\Workspace\ASP.net core\ASP_CRUD_CORE\ASP_CRUD_CORE\bin\Debug\netcoreapp2.0\ASP_CRUD_CORE.dll
+F:\Bizruntime\Workspace\ASP.net core\ASP_CRUD_CORE\ASP_CRUD_CORE\bin\Debug\netcoreapp2.0\ASP_CRUD_CORE.pdb
+F:\Bizruntime\Workspace\ASP.net core\ASP_CRUD_CORE\ASP_CRUD_CORE\obj\Debug\netcoreapp2.0\ASP_CRUD_CORE.csprojAssemblyReference.cache
+F:\Bizruntime\Workspace\ASP.net core\ASP_CRUD_CORE\ASP_CRUD_CORE\obj\Debug\netcoreapp2.0\ASP_CRUD_CORE.csproj.CoreCompileInputs.cache
+F:\Bizruntime\Workspace\ASP.net core\ASP_CRUD_CORE\ASP_CRUD_CORE\obj\Debug\netcoreapp2.0\ASP_CRUD_CORE.AssemblyInfoInputs.cache
+F:\Bizruntime\Workspace\ASP.net core\ASP_CRUD_CORE\ASP_CRUD_CORE\obj\Debug\netcoreapp2.0\ASP_CRUD_CORE.AssemblyInfo.cs
+F:\Bizruntime\Workspace\ASP.net core\ASP_CRUD_CORE\ASP_CRUD_CORE\obj\Debug\netcoreapp2.0\ASP_CRUD_CORE.dll
+F:\Bizruntime\Workspace\ASP.net core\ASP_CRUD_CORE\ASP_CRUD_CORE\obj\Debug\netcoreapp2.0\ASP_CRUD_CORE.pdb

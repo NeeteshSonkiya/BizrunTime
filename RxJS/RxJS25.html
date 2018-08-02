@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <script src="https://unpkg.com/@reactivex/rxjs@5.3.0/dist/global/Rx.js"></script>
+</head>
+
+<body>
+
+    <p>The jQuery team knows all about cross-browser issues, and they have written this knowledge into the jQuery library. jQuery
+        will run exactly the same in all major browsers.</p>
+    <p>
+        10. Scan - Keep a Running Total
+Scan sounds scary, but works just like reduce for Arrays in JavaScript. It keeps track of the accumulated total of emitted values, so you can combine the emitted values from an observable together.
+
+Let’s imagine you’re building a game that records a high score. We can simulate this with mouse clicks and assign a random score to each click.
+    </p>
+
+</body>
+
+</html>
+<script>
+   var clicks = Rx.Observable.fromEvent(document, 'click')
+
+   clicks
+     .map(e => Math.random() * 100)
+     .scan((totalScore, current) => totalScore + current)
+     .subscribe(e => document.write(e))
+</script>
