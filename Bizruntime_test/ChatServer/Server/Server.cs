@@ -15,7 +15,7 @@ namespace Server
 
          static log4net.ILog log = log4net.LogManager.GetLogger(typeof(Server));
 
-        static Dictionary<string, ClientHandl> dSockets = new Dictionary<string, ClientHandl>();
+        static Dictionary<string, Manager> dSockets = new Dictionary<string, Manager>();
         static int i = 1;
         static Socket sck;
         static Socket acc;
@@ -48,7 +48,7 @@ namespace Server
                     Array.Resize(ref Buf1, rec1);
                     string dis1 = Encoding.Default.GetString(Buf1);
 
-                    ClientHandl mtch = new ClientHandl(acc, dis, dis1, dSockets);
+                    Manager mtch = new Manager(acc, dis, dis1, dSockets);
                     dSockets.Add(dis, mtch);
 
                     Thread t = new Thread(mtch.Run);
@@ -76,7 +76,7 @@ namespace Server
 
     }
 
-    class ClientHandl
+    class Manager
     {
 
 
@@ -85,11 +85,11 @@ namespace Server
         bool isloggedin;
         string[] strr;
         string a;
-        static ClientHandl kk;
-        Dictionary<string, ClientHandl> dSockets;
+        static Manager kk;
+        Dictionary<string, Manager> dSockets;
 
 
-        public ClientHandl(Socket s, string name, string con, Dictionary<string, ClientHandl> ch)
+        public Manager(Socket s, string name, string con, Dictionary<string, Manager> ch)
         {
 
             this.name = name;
@@ -128,9 +128,9 @@ namespace Server
 
                     if ((a.ToUpper()).Equals("ALL"))
                     {
-                        foreach (KeyValuePair<string, ClientHandl> val in dSockets)
+                        foreach (KeyValuePair<string, Manager> val in dSockets)
                         {
-                            ClientHandl mc = (ClientHandl)val.Value;
+                            Manager mc = (Manager)val.Value;
 
 
                             if (mc.isloggedin == true)
@@ -145,9 +145,9 @@ namespace Server
                     else if ((a.ToUpper()).Equals("SELF"))
                     {
 
-                        foreach (KeyValuePair<string, ClientHandl> val in dSockets)
+                        foreach (KeyValuePair<string, Manager> val in dSockets)
                         {
-                            ClientHandl mc = (ClientHandl)val.Value;
+                            Manager mc = (Manager)val.Value;
 
 
                             if ((mc.name.Equals(recipient)) && mc.isloggedin == true)
@@ -162,9 +162,9 @@ namespace Server
                     else if ((a.ToUpper()).Equals("EXCEPTME"))
                     {
 
-                        foreach (KeyValuePair<string, ClientHandl> val in dSockets)
+                        foreach (KeyValuePair<string, Manager> val in dSockets)
                         {
-                            ClientHandl mc = (ClientHandl)val.Value;
+                            Manager mc = (Manager)val.Value;
 
 
                             if (!(mc.name.Equals(recipient)) && mc.isloggedin == true)
@@ -193,9 +193,9 @@ namespace Server
                 while (true)
                 {
                     string msg = Console.ReadLine();
-                    foreach (KeyValuePair<string, ClientHandl> val in dSockets)
+                    foreach (KeyValuePair<string, Manager> val in dSockets)
                     {
-                        ClientHandl mc = (ClientHandl)val.Value;
+                        Manager mc = (Manager)val.Value;
                         byte[] sData = Encoding.Default.GetBytes("Server : " + msg);
                         mc.s.Send(sData, 0, sData.Length, 0);
                     }
