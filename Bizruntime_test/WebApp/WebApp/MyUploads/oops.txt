@@ -1,0 +1,48 @@
+Oops->
+--------
+OBJECT..
+Its a real world & run time entity.
+object has state and behaviour.
+Object is instance of the class.
+
+static member can not be access by a instance in C#
+
+CLASS...
+-----------
+Class is the group of object.
+it contains method, constructor, variables , block etc.
+
+Constructor...
+------------
+constructor is a special method which have no return type.
+it automatically invoke at the time of object creation.
+-default constructor
+- parameterized constructor
+
+-- Destructor
+destructor is opozite to constructor . 
+its call gc . and perform cleaning operation.
+
+polymorphim
+-------------------
+Method overloading
+Method overriding - virtual function, override function
+
+Inheritance
+=--------------
+Is-a relation(inheritance)
+Has-a relation (Aggregation)
+
+Encapsulation
+-----------------
+Access Specifier
+-> Private
+-> public
+-> protected - can be inherite but can not be used in another call directly
+-> internal - can be used in any file in the same project
+-> protected internal - can be inherite in any project but can not used without inheriting
+
+Abstraction
+---------------
+Abstract class
+Interface

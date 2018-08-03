@@ -1,0 +1,34 @@
+All trainees while practicing any topics these three concepts need to implement with that project.Those are 1.NUnit with C#
+2.xml documentation
+3.log4dotnet.For this follow these below links.
+NUNIT:
+------
+https://www.infragistics.com/community/blogs/b/dhananjay_kumar/posts/getting-started-with-net-unit-testing-using-nunit
+
+http://www.dotnetcurry.com/visualstudio/1352/nunit-testing-visual-studio-2015
+
+https://www.codeproject.com/Articles/178635/Unit-Testing-Using-NUnit
+
+https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit
+
+https://github.com/nunit/docs/wiki
+
+https://msdn.microsoft.com/library/dn823749.aspx
+
+https://msdn.microsoft.com/en-us/library/hh694602.aspx
+
+http://dotnetpattern.com/nunit-introduction
+
+https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit
+https://www.codeproject.com/Articles/178635/Unit-Testing-Using-NUnit
+https://docs.microsoft.com/en-us/dotnet/csharp/codedoc
+http://www.bradoncode.com/blog/2015/02/27/karma-tutorial/
+https://www.guru99.com/angularjs-testing-unit.html
+
+Log4dotnet:
+--------
+https://www.codeproject.com/Tips/1107824/Perfect-Log-Net-with-Csharp
+
+xmlDocumentation:
+-----------------
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/xmldoc/xml-documentation-comments

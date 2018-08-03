@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.ValidationSummary();
+    <div>
+        <input type="file" id="myFileUpload" name="myFileUpload">
+    </div>
+    <div>
+        <input type="submit" id="btnSubmit" value="Upload">
+    </div>
+}

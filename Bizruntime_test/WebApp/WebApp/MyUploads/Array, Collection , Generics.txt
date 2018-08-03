@@ -1,0 +1,37 @@
+Collection
+============
+There are two types of collections available in C#:
+ non-generic collections and generic collections. 
+
+Every collection class implements the IEnumerable interface so values from the collection can be accessed using a 
+foreach loop.
+--------------
+ArrayList
+---------------
+->ArrayList can store items(elements) of any datatype.
+->ArrayList resizes automatically as you add the elements.
+->ArrayList values must be cast to appropriate data types before using it.
+->ArrayList can contain multiple null and dulplicate items.
+->ArrayList can be accessed using foreach or for loop or indexer.
+->Use Add(), AddRange(), Remove(), RemoveRange(), Insert(), InsertRange(), Sort(), Reverse() methods.
+
+-----------------
+ShortedList
+------------------
+->C# has generic and non-generic SortedList.
+->SortedList stores the key-value pairs in ascending order of the key. Key must be unique and cannot be null
+   whereas value can be null or duplicate.
+->Non-generic SortedList stores keys and values of any data types. So values needs to be cast to appropriate data type.
+->Key-value pair can be cast to DictionaryEntry.
+->Access individual value using indexer. SortedList indexer accepts key to return value associated with it.
+
+---------------------
+List
+---------------------
+->List<T> stores elements of the specified type and it grows automatically.
+->List<T> can store multiple null and duplicate elements.
+->List<T> can be assigned to IList<T> or List<T> type of variable. 
+  It provides more helper method When assigned to List<T> variable
+->List<T> can be access using indexer, for loop or foreach statement.
+->LINQ can be use to query List<T> collection.
+->List<T> is ideal for storing and retrieving large number of elements.

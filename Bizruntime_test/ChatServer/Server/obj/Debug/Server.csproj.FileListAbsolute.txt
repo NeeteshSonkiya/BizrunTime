@@ -1,0 +1,10 @@
+F:\Bizruntime\Workspace\BizrunTime_Test\ChatServer\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\Bizruntime\Workspace\BizrunTime_Test\ChatServer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Bizruntime\Workspace\BizrunTime_Test\ChatServer\Server\bin\Debug\Server.exe.config
+F:\Bizruntime\Workspace\BizrunTime_Test\ChatServer\Server\bin\Debug\Server.exe
+F:\Bizruntime\Workspace\BizrunTime_Test\ChatServer\Server\bin\Debug\Server.pdb
+F:\Bizruntime\Workspace\BizrunTime_Test\ChatServer\Server\bin\Debug\log4net.dll
+F:\Bizruntime\Workspace\BizrunTime_Test\ChatServer\Server\bin\Debug\log4net.xml
+F:\Bizruntime\Workspace\BizrunTime_Test\ChatServer\Server\obj\Debug\Server.csproj.CopyComplete
+F:\Bizruntime\Workspace\BizrunTime_Test\ChatServer\Server\obj\Debug\Server.exe
+F:\Bizruntime\Workspace\BizrunTime_Test\ChatServer\Server\obj\Debug\Server.pdb

@@ -1,0 +1,10 @@
+F:\Bizruntime\Workspace\BizrunTime_Test\Ado_Joins\Ado_Joins\bin\Debug\Ado_Joins.exe.config
+F:\Bizruntime\Workspace\BizrunTime_Test\Ado_Joins\Ado_Joins\bin\Debug\Ado_Joins.exe
+F:\Bizruntime\Workspace\BizrunTime_Test\Ado_Joins\Ado_Joins\bin\Debug\Ado_Joins.pdb
+F:\Bizruntime\Workspace\BizrunTime_Test\Ado_Joins\Ado_Joins\bin\Debug\log4net.dll
+F:\Bizruntime\Workspace\BizrunTime_Test\Ado_Joins\Ado_Joins\bin\Debug\log4net.xml
+F:\Bizruntime\Workspace\BizrunTime_Test\Ado_Joins\Ado_Joins\obj\Debug\Ado_Joins.csprojAssemblyReference.cache
+F:\Bizruntime\Workspace\BizrunTime_Test\Ado_Joins\Ado_Joins\obj\Debug\Ado_Joins.csproj.CoreCompileInputs.cache
+F:\Bizruntime\Workspace\BizrunTime_Test\Ado_Joins\Ado_Joins\obj\Debug\Ado_Joins.csproj.CopyComplete
+F:\Bizruntime\Workspace\BizrunTime_Test\Ado_Joins\Ado_Joins\obj\Debug\Ado_Joins.exe
+F:\Bizruntime\Workspace\BizrunTime_Test\Ado_Joins\Ado_Joins\obj\Debug\Ado_Joins.pdb
