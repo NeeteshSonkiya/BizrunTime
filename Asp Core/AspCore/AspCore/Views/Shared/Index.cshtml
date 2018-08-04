@@ -1,0 +1,84 @@
+﻿@{ 
+    Layout = null;
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device=width">
+    <title>Index</title>
+    <link src="~/css/style.css" rel="stylesheet" type="text/css"/>
+    <script src="~/js/mylib.js"></script>
+</head>
+<body>
+    <h3 class="formmat" style="text-align:center">Index Page</h3>
+    <img src="~/images/12.jpg" style="height:100px; width:150px;" onclick="clickMe()"></br>
+
+    <h1>Pass Data From Controller</h1></br>
+
+    Age: @ViewBag.age
+    </br>
+    Full Name: @ViewBag.fullName
+    </br>
+    Status: @ViewBag.status
+
+    </br>
+    Birthday: @ViewBag.birthday.ToString("MM/dd/yyyy")
+    </br>
+
+
+    <h1>Product Info</h1>
+    <table border="1" cellpadding="2" cellspacing="2">
+        <tr>
+            <td>Id</td>
+            <td>@ViewBag.product.Id</td>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>@ViewBag.product.Name</td>
+        </tr>
+        <tr>
+            <td>Photo</td>
+            <td><img src="~/images/@ViewBag.product.Photo" width="20px" /></td>
+        </tr>
+        <tr>
+            <td>Price</td>
+            <td>@ViewBag.product.Price</td>
+        </tr>
+        <tr>
+            <td>Quantity</td>
+            <td>@ViewBag.product.Quantity</td>
+        </tr>
+    </table></br>
+    <h1>Product Info reading from List</h1>
+    <table border="1" cellpadding="2" , cellspacing="2">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Photo</th>
+            <th>Price</th>
+            <th>Quantity</th>
+        </tr>
+        @foreach (var product in ViewBag.products)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td><img src="~/images/@product.Photo" width="20px" /></td>
+                <td>@product.Price</td>
+                <td>@product.Quantity</td>
+            </tr>
+        }
+    </table>
+    </br>
+    <h1>Json View</h1>
+    Result 1 @ViewBag.result1
+    </br>
+    Result 2 @ViewBag.result2
+    </br>
+    Result 3 @ViewBag.result3
+    </br>
+    Result 4 @ViewBag.result4
+    </br>
+    Result 5 @ViewBag.result5
+    </br>
+</body>
+</html>

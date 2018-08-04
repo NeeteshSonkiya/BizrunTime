@@ -1,0 +1,11 @@
+F:\Bizruntime\Workspace\ASP.net core\AspCoreForm\AspCoreForm\bin\Debug\netcoreapp2.0\AspCoreForm.deps.json
+F:\Bizruntime\Workspace\ASP.net core\AspCoreForm\AspCoreForm\bin\Debug\netcoreapp2.0\AspCoreForm.runtimeconfig.json
+F:\Bizruntime\Workspace\ASP.net core\AspCoreForm\AspCoreForm\bin\Debug\netcoreapp2.0\AspCoreForm.runtimeconfig.dev.json
+F:\Bizruntime\Workspace\ASP.net core\AspCoreForm\AspCoreForm\bin\Debug\netcoreapp2.0\AspCoreForm.dll
+F:\Bizruntime\Workspace\ASP.net core\AspCoreForm\AspCoreForm\obj\Debug\netcoreapp2.0\AspCoreForm.csprojAssemblyReference.cache
+F:\Bizruntime\Workspace\ASP.net core\AspCoreForm\AspCoreForm\obj\Debug\netcoreapp2.0\AspCoreForm.csproj.CoreCompileInputs.cache
+F:\Bizruntime\Workspace\ASP.net core\AspCoreForm\AspCoreForm\obj\Debug\netcoreapp2.0\AspCoreForm.AssemblyInfoInputs.cache
+F:\Bizruntime\Workspace\ASP.net core\AspCoreForm\AspCoreForm\obj\Debug\netcoreapp2.0\AspCoreForm.AssemblyInfo.cs
+F:\Bizruntime\Workspace\ASP.net core\AspCoreForm\AspCoreForm\bin\Debug\netcoreapp2.0\AspCoreForm.pdb
+F:\Bizruntime\Workspace\ASP.net core\AspCoreForm\AspCoreForm\obj\Debug\netcoreapp2.0\AspCoreForm.dll
+F:\Bizruntime\Workspace\ASP.net core\AspCoreForm\AspCoreForm\obj\Debug\netcoreapp2.0\AspCoreForm.pdb

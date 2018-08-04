@@ -1,0 +1,11 @@
+F:\Bizruntime\Workspace\ASP.net core\AspCore1\AspCore1\bin\Debug\netcoreapp2.0\AspCore1.deps.json
+F:\Bizruntime\Workspace\ASP.net core\AspCore1\AspCore1\bin\Debug\netcoreapp2.0\AspCore1.runtimeconfig.json
+F:\Bizruntime\Workspace\ASP.net core\AspCore1\AspCore1\bin\Debug\netcoreapp2.0\AspCore1.runtimeconfig.dev.json
+F:\Bizruntime\Workspace\ASP.net core\AspCore1\AspCore1\bin\Debug\netcoreapp2.0\AspCore1.dll
+F:\Bizruntime\Workspace\ASP.net core\AspCore1\AspCore1\obj\Debug\netcoreapp2.0\AspCore1.csprojAssemblyReference.cache
+F:\Bizruntime\Workspace\ASP.net core\AspCore1\AspCore1\obj\Debug\netcoreapp2.0\AspCore1.csproj.CoreCompileInputs.cache
+F:\Bizruntime\Workspace\ASP.net core\AspCore1\AspCore1\obj\Debug\netcoreapp2.0\AspCore1.AssemblyInfoInputs.cache
+F:\Bizruntime\Workspace\ASP.net core\AspCore1\AspCore1\obj\Debug\netcoreapp2.0\AspCore1.AssemblyInfo.cs
+F:\Bizruntime\Workspace\ASP.net core\AspCore1\AspCore1\bin\Debug\netcoreapp2.0\AspCore1.pdb
+F:\Bizruntime\Workspace\ASP.net core\AspCore1\AspCore1\obj\Debug\netcoreapp2.0\AspCore1.dll
+F:\Bizruntime\Workspace\ASP.net core\AspCore1\AspCore1\obj\Debug\netcoreapp2.0\AspCore1.pdb
