@@ -1,0 +1,12 @@
+F:\Bizruntime\Workspace\Web-API\StudentDataWithVerb\StudentDataAccess\bin\Debug\StudentDataAccess.dll.config
+F:\Bizruntime\Workspace\Web-API\StudentDataWithVerb\StudentDataAccess\bin\Debug\StudentDataAccess.dll
+F:\Bizruntime\Workspace\Web-API\StudentDataWithVerb\StudentDataAccess\bin\Debug\StudentDataAccess.pdb
+F:\Bizruntime\Workspace\Web-API\StudentDataWithVerb\StudentDataAccess\bin\Debug\EntityFramework.dll
+F:\Bizruntime\Workspace\Web-API\StudentDataWithVerb\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\Bizruntime\Workspace\Web-API\StudentDataWithVerb\StudentDataAccess\bin\Debug\EntityFramework.xml
+F:\Bizruntime\Workspace\Web-API\StudentDataWithVerb\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\Bizruntime\Workspace\Web-API\StudentDataWithVerb\StudentDataAccess\obj\Debug\StudentDataAccess.csprojAssemblyReference.cache
+F:\Bizruntime\Workspace\Web-API\StudentDataWithVerb\StudentDataAccess\obj\Debug\StudentDataAccess.csproj.CoreCompileInputs.cache
+F:\Bizruntime\Workspace\Web-API\StudentDataWithVerb\StudentDataAccess\obj\Debug\StudentDataAccess.csproj.CopyComplete
+F:\Bizruntime\Workspace\Web-API\StudentDataWithVerb\StudentDataAccess\obj\Debug\StudentDataAccess.dll
+F:\Bizruntime\Workspace\Web-API\StudentDataWithVerb\StudentDataAccess\obj\Debug\StudentDataAccess.pdb
