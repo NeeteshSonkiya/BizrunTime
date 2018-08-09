@@ -1,0 +1,46 @@
+<br>
+<h3>{{title}}</h3>
+<button (click)="fireEvent()">Send Event</button>
+ <br>
+<h1>"ngIf directive"</h1>
+  <div *ngIf="displayName; then thenBlock; else elseBlock"></div>
+  <ng-template #thenBlock>
+    <h2>Welcome to nested</h2>
+  </ng-template>
+  <ng-template #elseBlock>
+    <h2>Hidden</h2>
+  </ng-template>
+  <br>
+ <br>
+ <h1>"ngSwitch directive"</h1>
+ <div [ngSwitch]="color">
+   <div *ngSwitchCase="'red'"> You picked red color</div>
+   <div *ngSwitchCase="'green'"> You picked green color</div>
+   <div *ngSwitchCase="'blue'"> You picked Blue color</div>
+   <div *ngSwitchDefault> Pick again</div>
+ </div>
+ <h1>"ngFor directive"</h1>
+ <!--<div *ngFor="let color of colors; index as i">-->
+    <!--<div *ngFor="let color of colors; odd as i">-->
+    <!--<div *ngFor="let color of colors; last as i">-->
+    <!--<div *ngFor="let color of colors; even as i">-->
+    <div *ngFor="let color of colors; even as i">
+       <h2>{{i}}  {{color}}</h2>
+ </div>
+<h1>{{ pipe }}</h1>
+<h3>{{ pipe | lowercase }}</h3>
+<h3>{{ pipe | uppercase }}</h3>
+<h3>{{ pipe | slice:4 }}</h3>
+<h3>{{ pipe | titlecase }}</h3>
+<h3>{{ person | json}}</h3>
+
+<h2>{{5.948213 | number: '1.3-5'}}</h2>
+<h2>{{5.948213 | number: '3.3-5'}}</h2>
+
+<h3>{{5.98 | percent }}</h3>
+<h3>{{5.9 | currency }}</h3>
+<h3>{{5.913 | currency: 'EUR': 'code' }}</h3>
+
+<h2 style="background-color: yellow">{{ date | date:'short'}}</h2>
+<h2 style="background-color: yellow">{{ date | date:'shortDate'}}</h2>
+<h2 style="background-color: yellow">{{ date | date:'shortTime'}}</h2>

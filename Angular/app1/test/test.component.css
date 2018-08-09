@@ -1,0 +1,12 @@
+h1{
+    color:rgb(109, 33, 33);
+}
+.text-success{
+    color:green;
+  }
+  .text-danger{
+    color:red;
+  }
+  .text-special{
+    font-style: italic;
+  }

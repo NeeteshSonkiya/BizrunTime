@@ -1,0 +1,76 @@
+  <div class="panel panel-primary" *ngFor="let employee of employees">
+    <div id="i1">
+      <h3 class="panel-title">{{employee.name}}</h3>
+    </div>
+    <div class="panel-body">
+
+      <div class="col-xs-10">
+
+        <div class="row vertical-align">
+
+          <div class="col-xs-4">
+            <img class="imageClass" [src]="employee.photoPath" />
+          </div>
+          <div class="col-xs-8">
+
+            <div class="row">
+              <div class="col-xs-6">
+                Gender : {{employee.gender}}
+              </div>
+              <div class="col-xs-6">
+
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6">
+                Date of Birth : {{employee.dateOfBirth | date}}
+              </div>
+              <div class="col-xs-6">
+
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6">
+                Contact Preference : {{employee.contactPreference}}
+
+              </div>
+              <div class="row">
+                <div class="col-xs-6">
+                  Phone : {{employee.phoneNumber}}
+                </div>
+                <div class="col-xs-6">
+
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-6">
+                  Email : {{employee.email}}
+                </div>
+                <div class="col-xs-6">
+
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-6">
+                  Department : {{employee.department}}
+                </div>
+                <div class="col-xs-6">
+
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-6">
+                  Is Active : {{employee.isActive}}
+
+                  <div class="col-xs-6">
+
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>

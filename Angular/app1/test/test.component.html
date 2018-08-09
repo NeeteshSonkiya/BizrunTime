@@ -1,0 +1,38 @@
+<h1>
+  Welcome {{name}}
+</h1>
+<h2>{{2+2}}</h2>
+<h2>{{"Welcome" + name}}</h2>
+<h2>{{name.length}}</h2>
+<h3>{{greetUser()}}</h3>
+
+<h2>{{"Class binding"}}</h2>
+<h3 class="text-success" >Welcome to Class</h3>
+<h3 [class]="success">Welcome to class</h3>
+
+<h2 class="text-special" [class]="success">Class Binding Err</h2>
+
+<h2 [class.text-danger]="hasError">CodeEvolution</h2>
+
+<h2 [ngClass]="messageClasses">Ng class directive</h2>
+
+
+<h2 [style.color]="hasError ? 'red': 'blue'">Style Binding</h2>
+<h2 [style.color]="highlightColor">style binding 2</h2>
+<h2 [ngStyle]="titleStyles">title  style binding 3</h2>
+
+<button (click)="onClick($event)">Greet</button>
+<button (click)="greeting='welcome greet'">Greet</button>
+{{greeting}}
+<br>
+<br>
+<input #myInput type="text">
+<button (click)="logMessage(myInput.value)">Log</button>
+
+
+<br>
+{{"Two way binding"}}
+<br>
+<input [(ngModel)]="bname" type="text">
+{{bname}}
+
