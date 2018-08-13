@@ -1,0 +1,48 @@
+<form #f="ngForm">
+  <div class="radio">
+    <label for="gender">Gender</label>    
+    <input ngModel 
+           name="gender" 
+           #gender="ngModel" 
+           type="radio" 
+           value="M"
+           /> Male
+    <input ngModel 
+           name="gender" 
+           #gender="ngModel" 
+           type="radio"
+           value="F" 
+           /> Female
+    </div>
+  <div class="checkbox">
+    <label for="skills">Skills</label>    
+    <input ngModel 
+           name="skill" 
+           #skill="ngModel" 
+           type="checkbox" 
+           value="C"
+           /> C
+    <input ngModel 
+           name="skill" 
+           #skill="ngModel" 
+           type="checkbox" 
+           value="CPP"
+           /> C++
+    <input ngModel name="skill" #skill="ngModel" type="checkbox"  value="Java"/> Java           
+  </div>  
+
+  <div class="select">
+    <label for="education">Education</label>    
+    <select ngModel 
+           name="education" 
+           #education="ngModel" 
+           >
+        <option value="">Select</option>           
+        <option value="1">BE</option>
+        <option value="2">ME</option>
+        <option value="3">MCA</option>
+    </select>
+  </div>
+   <input type="submit" class="btn btn-primary"/>
+  <p>{{f.value | json}} </p>
+</form>

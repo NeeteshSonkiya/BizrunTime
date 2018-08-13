@@ -1,0 +1,38 @@
+<form #f="ngForm">
+  <div class="radio">
+    <label for="gender">Gender</label>    
+    <div *ngFor="let currentGender of genders">
+      <input ngModel 
+            name="gender" 
+            #gender="ngModel"            
+            type="radio" 
+            [value]="currentGender.id"/> {{currentGender.name}} 
+    </div>           
+  </div>
+  <div class="checkbox">
+    <label for="skills">Skills</label>    
+    <div *ngFor="let currentSkill of skills">
+      <input ngModel 
+            name="skill" 
+            #skill="ngModel" 
+            type="checkbox" 
+            [value]="currentSkill.id"/> {{currentSkill.name}}
+    </div>
+  </div>  
+
+  <div class="select">
+    <label for="education">Education</label>    
+    <select ngModel 
+            name="education" 
+            #education="ngModel" 
+           >
+        <option value="">Select</option>           
+        <option *ngFor="let currentEducation of educations"
+                 [value]="currentEducation.id">
+                {{currentEducation.name}}
+        </option>
+    </select>
+  </div>
+   <input type="submit" #myForm class="btn btn-primary"/>
+  <p>{{f.value | json}} </p>
+</form>

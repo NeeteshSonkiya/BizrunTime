@@ -1,0 +1,65 @@
+<form #f="ngForm">
+  <div class="radio">
+    <label for="gender">Gender</label>    
+    <input ngModel 
+          required
+           name="gender" 
+           #gender="ngModel" 
+           type="radio" 
+           value="M"
+           /> Male
+    <input ngModel
+           name="gender" 
+           #gender="ngModel" 
+           type="radio"
+           value="F" 
+           /> Female 
+  </div>
+
+  <div class="checkbox">
+    <label for="skills">Skills</label>    
+    <input ngModel 
+           required
+           name="skill1" 
+           #skill1="ngModel" 
+           type="checkbox" 
+           value="C"
+           /> C
+    <input ngModel 
+    required
+           name="skill2" 
+           #skill2="ngModel" 
+           type="checkbox" 
+           value="CPP"
+           /> C++
+    <input ngModel
+    required 
+           name="skill3" 
+           #skill3="ngModel" 
+           type="checkbox" 
+           value="Java"
+           /> Java           
+  </div>  
+  <div class="select">
+    <label for="education">Education</label>    
+    <select ngModel 
+            required
+           name="education" 
+           #education="ngModel">
+        <option value="">Select</option>           
+        <option value="1">BE</option>
+        <option value="2">ME</option>
+        <option value="3">MCA</option>
+    </select>
+  </div>
+   <input type="submit" 
+          class="btn btn-primary" 
+          [disabled]="!gender.valid 
+                    || 
+                    !(skill1.valid || skill2.valid || skill3.valid) 
+                    || 
+                    !education.valid" />
+  <p>Gender Validate status: {{gender.valid}}</p>
+  <p>Skills Validate status: {{skill1.valid || skill2.valid || skill3.valid}}</p>
+  <p>Education Validate status: {{education.valid}}</p>
+</form>

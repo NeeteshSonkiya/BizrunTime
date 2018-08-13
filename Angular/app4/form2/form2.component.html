@@ -1,0 +1,26 @@
+<form>
+  <div class="form-group">
+    <label for="firstName">First Name</label>
+    <input required 
+           ngModel 
+           name="firstName" 
+           #firstName="ngModel" 
+           type="text" 
+           class="form-control"/>
+    <div class="alert alert-danger" *ngIf="firstName.touched && !firstName.valid">
+      First Name is Required.
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="address">Address</label>
+    <textarea name="address"
+              required
+              ngModel 
+              #address="ngModel" 
+              class="form-control"></textarea>
+    <div class="alert alert-danger" *ngIf="address.touched && !address.valid">
+      Address is Required.
+    </div>          
+  </div>
+  <input type="submit" class="btn btn-primary"/>
+</form>
