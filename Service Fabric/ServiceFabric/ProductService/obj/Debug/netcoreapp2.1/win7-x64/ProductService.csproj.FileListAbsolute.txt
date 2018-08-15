@@ -1,0 +1,17 @@
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.csproj.CoreCompileInputs.cache
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.AssemblyInfoInputs.cache
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.AssemblyInfo.cs
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.exe
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.deps.json
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.runtimeconfig.json
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.runtimeconfig.dev.json
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.dll
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\bin\Debug\netcoreapp2.1\win7-x64\ProductService.pdb
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.RazorAssemblyInfo.cache
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.RazorAssemblyInfo.cs
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.RazorTargetAssemblyInfo.cache
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.dll
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.pdb
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\ProductService\obj\Debug\netcoreapp2.1\win7-x64\ProductService.csprojAssemblyReference.cache
