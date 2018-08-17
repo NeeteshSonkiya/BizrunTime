@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "VotingApplication", "VotingApplication\VotingApplication.sfproj", "{2752E39E-183C-4CD6-A740-D083142C293C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingData", "VotingData\VotingData.csproj", "{BC48998C-BC29-4CBB-820F-15E3C0FF1F94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingWeb", "VotingWeb\VotingWeb.csproj", "{51B363E3-8039-4BD3-86C3-076C94ABD3CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2752E39E-183C-4CD6-A740-D083142C293C}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{2752E39E-183C-4CD6-A740-D083142C293C}.Debug|x64.ActiveCfg = Debug|x64
+		{2752E39E-183C-4CD6-A740-D083142C293C}.Debug|x64.Build.0 = Debug|x64
+		{2752E39E-183C-4CD6-A740-D083142C293C}.Debug|x64.Deploy.0 = Debug|x64
+		{2752E39E-183C-4CD6-A740-D083142C293C}.Release|Any CPU.ActiveCfg = Release|x64
+		{2752E39E-183C-4CD6-A740-D083142C293C}.Release|x64.ActiveCfg = Release|x64
+		{2752E39E-183C-4CD6-A740-D083142C293C}.Release|x64.Build.0 = Release|x64
+		{2752E39E-183C-4CD6-A740-D083142C293C}.Release|x64.Deploy.0 = Release|x64
+		{BC48998C-BC29-4CBB-820F-15E3C0FF1F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC48998C-BC29-4CBB-820F-15E3C0FF1F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC48998C-BC29-4CBB-820F-15E3C0FF1F94}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BC48998C-BC29-4CBB-820F-15E3C0FF1F94}.Debug|x64.Build.0 = Debug|Any CPU
+		{BC48998C-BC29-4CBB-820F-15E3C0FF1F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC48998C-BC29-4CBB-820F-15E3C0FF1F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC48998C-BC29-4CBB-820F-15E3C0FF1F94}.Release|x64.ActiveCfg = Release|Any CPU
+		{BC48998C-BC29-4CBB-820F-15E3C0FF1F94}.Release|x64.Build.0 = Release|Any CPU
+		{51B363E3-8039-4BD3-86C3-076C94ABD3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B363E3-8039-4BD3-86C3-076C94ABD3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B363E3-8039-4BD3-86C3-076C94ABD3CA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{51B363E3-8039-4BD3-86C3-076C94ABD3CA}.Debug|x64.Build.0 = Debug|Any CPU
+		{51B363E3-8039-4BD3-86C3-076C94ABD3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B363E3-8039-4BD3-86C3-076C94ABD3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B363E3-8039-4BD3-86C3-076C94ABD3CA}.Release|x64.ActiveCfg = Release|Any CPU
+		{51B363E3-8039-4BD3-86C3-076C94ABD3CA}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D1025F1-64B9-4ECB-A3FC-3078E68492D2}
+	EndGlobalSection
+EndGlobal
