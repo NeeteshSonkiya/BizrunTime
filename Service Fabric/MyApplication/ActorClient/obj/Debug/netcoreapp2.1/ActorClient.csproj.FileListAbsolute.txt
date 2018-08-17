@@ -1,0 +1,13 @@
+E:\Bizruntime\Workspace\service fablic\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.deps.json
+E:\Bizruntime\Workspace\service fablic\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.runtimeconfig.json
+E:\Bizruntime\Workspace\service fablic\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.runtimeconfig.dev.json
+E:\Bizruntime\Workspace\service fablic\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.dll
+E:\Bizruntime\Workspace\service fablic\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.csproj.CoreCompileInputs.cache
+E:\Bizruntime\Workspace\service fablic\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.AssemblyInfoInputs.cache
+E:\Bizruntime\Workspace\service fablic\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.AssemblyInfo.cs
+E:\Bizruntime\Workspace\service fablic\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.pdb
+E:\Bizruntime\Workspace\service fablic\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\HelloWorld.Interfaces.dll
+E:\Bizruntime\Workspace\service fablic\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\HelloWorld.Interfaces.pdb
+E:\Bizruntime\Workspace\service fablic\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.csproj.CopyComplete
+E:\Bizruntime\Workspace\service fablic\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.dll
+E:\Bizruntime\Workspace\service fablic\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.pdb

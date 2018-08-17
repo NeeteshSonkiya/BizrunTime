@@ -1,0 +1,9 @@
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.deps.json
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.dll
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.pdb
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.csprojAssemblyReference.cache
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.csproj.CoreCompileInputs.cache
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.AssemblyInfoInputs.cache
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.AssemblyInfo.cs
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.dll
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.pdb

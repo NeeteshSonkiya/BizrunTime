@@ -1,0 +1,17 @@
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.dll
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.AssemblyInfoInputs.cache
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.AssemblyInfo.cs
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.exe
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.deps.json
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.runtimeconfig.json
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.runtimeconfig.dev.json
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.dll
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.pdb
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.pdb
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.csprojAssemblyReference.cache
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.csproj.CopyComplete
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.dll
+E:\Bizruntime\Workspace\service fablic\MyApplication\HelloWorld\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.pdb
