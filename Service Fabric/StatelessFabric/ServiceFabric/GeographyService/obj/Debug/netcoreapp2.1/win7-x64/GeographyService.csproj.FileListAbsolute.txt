@@ -1,0 +1,17 @@
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\bin\Debug\netcoreapp2.1\win7-x64\GeographyService.exe
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\bin\Debug\netcoreapp2.1\win7-x64\GeographyService.deps.json
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\bin\Debug\netcoreapp2.1\win7-x64\GeographyService.runtimeconfig.json
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\bin\Debug\netcoreapp2.1\win7-x64\GeographyService.runtimeconfig.dev.json
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\bin\Debug\netcoreapp2.1\win7-x64\GeographyService.dll
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\bin\Debug\netcoreapp2.1\win7-x64\GeographyService.pdb
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\obj\Debug\netcoreapp2.1\win7-x64\GeographyService.csproj.CoreCompileInputs.cache
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\obj\Debug\netcoreapp2.1\win7-x64\GeographyService.RazorAssemblyInfo.cache
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\obj\Debug\netcoreapp2.1\win7-x64\GeographyService.RazorAssemblyInfo.cs
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\obj\Debug\netcoreapp2.1\win7-x64\GeographyService.AssemblyInfoInputs.cache
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\obj\Debug\netcoreapp2.1\win7-x64\GeographyService.AssemblyInfo.cs
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\obj\Debug\netcoreapp2.1\win7-x64\GeographyService.RazorTargetAssemblyInfo.cache
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\obj\Debug\netcoreapp2.1\win7-x64\GeographyService.dll
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\obj\Debug\netcoreapp2.1\win7-x64\GeographyService.pdb
+E:\Bizruntime\Workspace\service fablic\StatelessFabric\ServiceFabric\GeographyService\obj\Debug\netcoreapp2.1\win7-x64\GeographyService.csprojAssemblyReference.cache

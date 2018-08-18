@@ -1,0 +1,17 @@
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\bin\Debug\netcoreapp2.1\hostpolicy.dll
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\bin\Debug\netcoreapp2.1\hostfxr.dll
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\bin\Debug\netcoreapp2.1\CalculatorService.exe
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\bin\Debug\netcoreapp2.1\CalculatorClient.deps.json
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\bin\Debug\netcoreapp2.1\CalculatorClient.runtimeconfig.json
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\bin\Debug\netcoreapp2.1\CalculatorClient.runtimeconfig.dev.json
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\bin\Debug\netcoreapp2.1\CalculatorClient.dll
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\bin\Debug\netcoreapp2.1\CalculatorClient.pdb
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\bin\Debug\netcoreapp2.1\CalculatorService.dll
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\bin\Debug\netcoreapp2.1\CalculatorService.pdb
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\obj\Debug\netcoreapp2.1\CalculatorClient.csprojAssemblyReference.cache
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\obj\Debug\netcoreapp2.1\CalculatorClient.csproj.CoreCompileInputs.cache
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\obj\Debug\netcoreapp2.1\CalculatorClient.AssemblyInfoInputs.cache
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\obj\Debug\netcoreapp2.1\CalculatorClient.AssemblyInfo.cs
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\obj\Debug\netcoreapp2.1\CalculatorClient.csproj.CopyComplete
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\obj\Debug\netcoreapp2.1\CalculatorClient.dll
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorClient\obj\Debug\netcoreapp2.1\CalculatorClient.pdb

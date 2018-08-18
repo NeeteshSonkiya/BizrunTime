@@ -16880,24 +16880,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Bizruntime\\Workspace\\service fablic\\StatefullFabric\\Voting\\VotingWeb\\VotingWeb.csproj",
+      "projectUniqueName": "E:\\Project\\Bizruntime\\BizrunTime\\Service Fabric\\StatefullFabric\\Voting\\VotingWeb\\VotingWeb.csproj",
       "projectName": "VotingWeb",
-      "projectPath": "E:\\Bizruntime\\Workspace\\service fablic\\StatefullFabric\\Voting\\VotingWeb\\VotingWeb.csproj",
+      "projectPath": "E:\\Project\\Bizruntime\\BizrunTime\\Service Fabric\\StatefullFabric\\Voting\\VotingWeb\\VotingWeb.csproj",
       "packagesPath": "C:\\Users\\Neetesh\\.nuget\\packages\\",
-      "outputPath": "E:\\Bizruntime\\Workspace\\service fablic\\StatefullFabric\\Voting\\VotingWeb\\obj\\",
+      "outputPath": "E:\\Project\\Bizruntime\\BizrunTime\\Service Fabric\\StatefullFabric\\Voting\\VotingWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Neetesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

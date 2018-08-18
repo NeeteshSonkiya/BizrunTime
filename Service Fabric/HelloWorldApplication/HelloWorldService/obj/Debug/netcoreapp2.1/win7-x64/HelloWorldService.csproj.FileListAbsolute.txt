@@ -1,0 +1,14 @@
+E:\Bizruntime\Workspace\service fablic\HelloWorldApplication\HelloWorldService\obj\Debug\netcoreapp2.1\win7-x64\HelloWorldService.csproj.CoreCompileInputs.cache
+E:\Bizruntime\Workspace\service fablic\HelloWorldApplication\HelloWorldService\obj\Debug\netcoreapp2.1\win7-x64\HelloWorldService.AssemblyInfoInputs.cache
+E:\Bizruntime\Workspace\service fablic\HelloWorldApplication\HelloWorldService\obj\Debug\netcoreapp2.1\win7-x64\HelloWorldService.AssemblyInfo.cs
+E:\Bizruntime\Workspace\service fablic\HelloWorldApplication\HelloWorldService\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+E:\Bizruntime\Workspace\service fablic\HelloWorldApplication\HelloWorldService\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+E:\Bizruntime\Workspace\service fablic\HelloWorldApplication\HelloWorldService\bin\Debug\netcoreapp2.1\win7-x64\HelloWorldService.exe
+E:\Bizruntime\Workspace\service fablic\HelloWorldApplication\HelloWorldService\bin\Debug\netcoreapp2.1\win7-x64\HelloWorldService.deps.json
+E:\Bizruntime\Workspace\service fablic\HelloWorldApplication\HelloWorldService\bin\Debug\netcoreapp2.1\win7-x64\HelloWorldService.runtimeconfig.json
+E:\Bizruntime\Workspace\service fablic\HelloWorldApplication\HelloWorldService\bin\Debug\netcoreapp2.1\win7-x64\HelloWorldService.runtimeconfig.dev.json
+E:\Bizruntime\Workspace\service fablic\HelloWorldApplication\HelloWorldService\bin\Debug\netcoreapp2.1\win7-x64\HelloWorldService.dll
+E:\Bizruntime\Workspace\service fablic\HelloWorldApplication\HelloWorldService\bin\Debug\netcoreapp2.1\win7-x64\HelloWorldService.pdb
+E:\Bizruntime\Workspace\service fablic\HelloWorldApplication\HelloWorldService\obj\Debug\netcoreapp2.1\win7-x64\HelloWorldService.csprojAssemblyReference.cache
+E:\Bizruntime\Workspace\service fablic\HelloWorldApplication\HelloWorldService\obj\Debug\netcoreapp2.1\win7-x64\HelloWorldService.dll
+E:\Bizruntime\Workspace\service fablic\HelloWorldApplication\HelloWorldService\obj\Debug\netcoreapp2.1\win7-x64\HelloWorldService.pdb

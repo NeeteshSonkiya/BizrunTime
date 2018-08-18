@@ -1,0 +1,17 @@
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\obj\Debug\netcoreapp2.1\win7-x64\MyService.csproj.CoreCompileInputs.cache
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\obj\Debug\netcoreapp2.1\win7-x64\MyService.AssemblyInfoInputs.cache
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\obj\Debug\netcoreapp2.1\win7-x64\MyService.AssemblyInfo.cs
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\bin\Debug\netcoreapp2.1\win7-x64\MyService.exe
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\bin\Debug\netcoreapp2.1\win7-x64\MyService.deps.json
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\bin\Debug\netcoreapp2.1\win7-x64\MyService.runtimeconfig.json
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\bin\Debug\netcoreapp2.1\win7-x64\MyService.runtimeconfig.dev.json
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\bin\Debug\netcoreapp2.1\win7-x64\MyService.dll
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\bin\Debug\netcoreapp2.1\win7-x64\MyService.pdb
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\obj\Debug\netcoreapp2.1\win7-x64\MyService.csprojAssemblyReference.cache
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\obj\Debug\netcoreapp2.1\win7-x64\MyService.RazorAssemblyInfo.cache
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\obj\Debug\netcoreapp2.1\win7-x64\MyService.RazorAssemblyInfo.cs
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\obj\Debug\netcoreapp2.1\win7-x64\MyService.RazorTargetAssemblyInfo.cache
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\obj\Debug\netcoreapp2.1\win7-x64\MyService.dll
+E:\Bizruntime\Workspace\service fablic\MyApp\MyService\obj\Debug\netcoreapp2.1\win7-x64\MyService.pdb

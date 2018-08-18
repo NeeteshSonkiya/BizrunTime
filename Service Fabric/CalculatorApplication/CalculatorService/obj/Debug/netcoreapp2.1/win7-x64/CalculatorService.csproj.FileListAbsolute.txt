@@ -1,0 +1,14 @@
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorService\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorService\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorService\bin\Debug\netcoreapp2.1\win7-x64\CalculatorService.exe
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorService\bin\Debug\netcoreapp2.1\win7-x64\CalculatorService.deps.json
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorService\bin\Debug\netcoreapp2.1\win7-x64\CalculatorService.runtimeconfig.json
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorService\bin\Debug\netcoreapp2.1\win7-x64\CalculatorService.runtimeconfig.dev.json
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorService\bin\Debug\netcoreapp2.1\win7-x64\CalculatorService.dll
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorService\bin\Debug\netcoreapp2.1\win7-x64\CalculatorService.pdb
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorService\obj\Debug\netcoreapp2.1\win7-x64\CalculatorService.csproj.CoreCompileInputs.cache
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorService\obj\Debug\netcoreapp2.1\win7-x64\CalculatorService.AssemblyInfoInputs.cache
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorService\obj\Debug\netcoreapp2.1\win7-x64\CalculatorService.AssemblyInfo.cs
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorService\obj\Debug\netcoreapp2.1\win7-x64\CalculatorService.dll
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorService\obj\Debug\netcoreapp2.1\win7-x64\CalculatorService.pdb
+E:\Bizruntime\Workspace\service fablic\CalculatorApplication\CalculatorService\obj\Debug\netcoreapp2.1\win7-x64\CalculatorService.csprojAssemblyReference.cache
