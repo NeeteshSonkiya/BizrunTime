@@ -1,0 +1,26 @@
+package com.tech.book.ticket.app.service;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.tech.book.ticket.app.dao.TicketBookingDao;
+import com.tech.book.ticket.app.entities.Ticket;
+
+
+
+@Service
+public class TicketBookingService {
+
+	@Autowired
+	private TicketBookingDao ticketBookingDao;
+	
+	public Ticket createTicket(Ticket ticket) {
+		return ticketBookingDao.save(ticket);
+	}
+	public Object getTicketById(Integer ticketId) {
+		return ticketBookingDao.findById(ticketId);
+	}
+	
+}

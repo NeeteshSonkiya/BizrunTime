@@ -1,0 +1,5 @@
+package com.tech.StudentBootApp.controller;
+
+public class StudentController {
+
+}

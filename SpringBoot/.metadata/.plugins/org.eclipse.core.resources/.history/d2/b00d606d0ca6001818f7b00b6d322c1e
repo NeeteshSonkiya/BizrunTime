@@ -1,0 +1,5 @@
+package com.tech.book.ticket.app.dao;
+
+public class TicketBookingDao {
+
+}

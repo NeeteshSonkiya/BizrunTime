@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Spring-Boot-ThyMeleaf-Ex"/>
+<aop-project name="TicketBookingManagementApp"/>
+<aop-project name="StudentBootApp"/>
+<aop-project name="SpringBootDemo"/>
+<aop-project name="Spring-Boot-JPA"/>
+<aop-project name="Spring-Boot-demo"/>
+</aop-reference-model>

@@ -1,0 +1,891 @@
+2018-08-23 11:43:39,920 [Worker-8: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-08-23 11:54:58,063 [Worker-8: Creating project "HelloWorld"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tech:HelloWorld:0.0.1-SNAPSHOT @ E:\Bizruntime\Workspace\Ignite\HelloWorld\pom.xml.
+2018-08-23 11:55:02,751 [Worker-8: Creating project "HelloWorld"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/main/java
+2018-08-23 11:55:02,752 [Worker-8: Creating project "HelloWorld"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloWorld/src/main/resources
+2018-08-23 11:55:02,754 [Worker-8: Creating project "HelloWorld"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/test/java
+2018-08-23 11:55:02,754 [Worker-8: Creating project "HelloWorld"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloWorld/src/test/resources
+2018-08-23 11:55:12,165 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 11:55:12,243 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 11:55:12,247 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 11:55:12,264 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 11:56:25,321 [Worker-19: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tech:HelloWorld:0.0.1-SNAPSHOT @ E:\Bizruntime\Workspace\Ignite\HelloWorld\pom.xml.
+2018-08-23 11:56:25,897 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 11:56:25,994 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 11:56:25,999 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 11:56:26,012 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 11:56:44,142 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-23 11:56:45,210 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tech:HelloWorld:0.0.1-SNAPSHOT @ E:\Bizruntime\Workspace\Ignite\HelloWorld\pom.xml.
+2018-08-23 11:56:45,518 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/main/java
+2018-08-23 11:56:45,518 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloWorld/src/main/resources
+2018-08-23 11:56:45,520 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloWorld/src/test/java
+2018-08-23 11:56:45,521 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloWorld/src/test/resources
+2018-08-23 11:56:46,065 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-08-23 11:56:46,509 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 11:56:46,547 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 11:56:46,550 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 11:56:46,559 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 11:59:23,202 [Worker-23: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tech:HelloWorld:0.0.1-SNAPSHOT @ E:\Bizruntime\Workspace\Ignite\HelloWorld\pom.xml.
+2018-08-23 11:59:23,465 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 11:59:23,508 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 11:59:23,512 [Worker-23: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 11:59:23,522 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 11:59:47,503 [Worker-26: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tech:HelloWorld:0.0.1-SNAPSHOT @ E:\Bizruntime\Workspace\Ignite\HelloWorld\pom.xml.
+2018-08-23 11:59:47,880 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.6.0/ignite-core-2.6.0.pom
+2018-08-23 11:59:48,057 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.6.0/ignite-core-2.6.0.pom
+2018-08-23 11:59:48,224 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/cache/cache-api/1.0.0/cache-api-1.0.0.pom
+2018-08-23 11:59:48,278 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.6.0/ignite-core-2.6.0.pom
+2018-08-23 11:59:48,407 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/cache/cache-api/1.0.0/cache-api-1.0.0.pom
+2018-08-23 11:59:48,446 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.6.0/ignite-core-2.6.0.pom
+2018-08-23 11:59:48,625 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.pom
+2018-08-23 11:59:48,630 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.pom
+2018-08-23 11:59:48,850 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.pom
+2018-08-23 11:59:48,864 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.pom
+2018-08-23 11:59:49,018 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/gridgain/ignite-shmem/1.0.0/ignite-shmem-1.0.0.pom
+2018-08-23 11:59:49,032 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/gridgain/ignite-shmem/1.0.0/ignite-shmem-1.0.0.pom
+2018-08-23 11:59:49,182 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/gridgain/ignite-shmem/1.0.0/ignite-shmem-1.0.0.pom
+2018-08-23 11:59:49,193 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/gridgain/ignite-shmem/1.0.0/ignite-shmem-1.0.0.pom
+2018-08-23 11:59:49,344 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.6.0/ignite-spring-2.6.0.pom
+2018-08-23 11:59:49,354 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.6.0/ignite-spring-2.6.0.pom
+2018-08-23 11:59:49,540 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.6.0/ignite-spring-2.6.0.pom
+2018-08-23 11:59:49,569 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.6.0/ignite-spring-2.6.0.pom
+2018-08-23 11:59:49,716 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/2.6.0/ignite-indexing-2.6.0.pom
+2018-08-23 11:59:49,729 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/2.6.0/ignite-indexing-2.6.0.pom
+2018-08-23 11:59:49,914 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/2.6.0/ignite-indexing-2.6.0.pom
+2018-08-23 11:59:49,943 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/2.6.0/ignite-indexing-2.6.0.pom
+2018-08-23 11:59:50,121 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.pom
+2018-08-23 11:59:50,123 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.pom
+2018-08-23 11:59:50,324 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.pom
+2018-08-23 11:59:50,343 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.pom
+2018-08-23 11:59:50,532 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom
+2018-08-23 11:59:50,540 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom
+2018-08-23 11:59:50,893 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom
+2018-08-23 11:59:50,926 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom
+2018-08-23 11:59:50,929 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for commons-codec:commons-codec:jar:1.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-08-23 11:59:51,085 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.2/lucene-core-5.5.2.pom
+2018-08-23 11:59:51,155 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.2/lucene-core-5.5.2.pom
+2018-08-23 11:59:51,273 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.2/lucene-core-5.5.2.pom
+2018-08-23 11:59:51,320 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.2/lucene-core-5.5.2.pom
+2018-08-23 11:59:51,447 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-parent/5.5.2/lucene-parent-5.5.2.pom
+2018-08-23 11:59:51,473 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-parent/5.5.2/lucene-parent-5.5.2.pom
+2018-08-23 11:59:51,640 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-parent/5.5.2/lucene-parent-5.5.2.pom
+2018-08-23 11:59:51,657 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-parent/5.5.2/lucene-parent-5.5.2.pom
+2018-08-23 11:59:51,827 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-solr-grandparent/5.5.2/lucene-solr-grandparent-5.5.2.pom
+2018-08-23 11:59:51,861 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-solr-grandparent/5.5.2/lucene-solr-grandparent-5.5.2.pom
+2018-08-23 11:59:52,721 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-solr-grandparent/5.5.2/lucene-solr-grandparent-5.5.2.pom
+2018-08-23 11:59:52,766 [Worker-22: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.lucene:lucene-core:jar:5.5.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-08-23 11:59:52,766 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-solr-grandparent/5.5.2/lucene-solr-grandparent-5.5.2.pom
+2018-08-23 11:59:52,934 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.2/lucene-analyzers-common-5.5.2.pom
+2018-08-23 11:59:52,936 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.2/lucene-analyzers-common-5.5.2.pom
+2018-08-23 11:59:53,095 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.2/lucene-analyzers-common-5.5.2.pom
+2018-08-23 11:59:53,102 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.2/lucene-analyzers-common-5.5.2.pom
+2018-08-23 11:59:53,140 [Worker-22: reload maven project] WARN  o.e.a.i.i.DefaultUpdateCheckManager - Failed to write tracking file C:\Users\Neetesh\.m2\repository\org\apache\lucene\lucene-analyzers-common\5.5.2\lucene-analyzers-common-5.5.2.pom.lastUpdated
+java.io.FileNotFoundException: C:\Users\Neetesh\.m2\repository\org\apache\lucene\lucene-analyzers-common\5.5.2\lucene-analyzers-common-5.5.2.pom.lastUpdated (Access is denied)
+	at java.io.RandomAccessFile.open0(Native Method) ~[na:1.8.0_181]
+	at java.io.RandomAccessFile.open(Unknown Source) ~[na:1.8.0_181]
+	at java.io.RandomAccessFile.<init>(Unknown Source) ~[na:1.8.0_181]
+	at org.eclipse.aether.internal.impl.TrackingFileManager.update(TrackingFileManager.java:105) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write(DefaultUpdateCheckManager.java:615) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact(DefaultUpdateCheckManager.java:551) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:623) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:513) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:399) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:224) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:201) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.loadPom(DefaultArtifactDescriptorReader.java:261) [maven-resolver-provider-3.5.3.jar:3.5.3]
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.readArtifactDescriptor(DefaultArtifactDescriptorReader.java:192) [maven-resolver-provider-3.5.3.jar:3.5.3]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.resolveCachedArtifactDescriptor(DefaultDependencyCollector.java:539) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.getArtifactDescriptorResult(DefaultDependencyCollector.java:522) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:411) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:507) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:460) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:507) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:460) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:256) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:282) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.apache.maven.project.DefaultProjectDependenciesResolver.resolve(DefaultProjectDependenciesResolver.java:169) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.resolveDependencies(DefaultProjectBuilder.java:212) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:185) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:116) [maven-core-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:794) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1010) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:5065) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:5060) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1008) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) [org.eclipse.m2e.core.ui_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:740) [org.eclipse.m2e.editor_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1074) [org.eclipse.m2e.editor_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-08-23 11:59:53,298 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.2/lucene-queryparser-5.5.2.pom
+2018-08-23 11:59:53,314 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.2/lucene-queryparser-5.5.2.pom
+2018-08-23 11:59:53,465 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.2/lucene-queryparser-5.5.2.pom
+2018-08-23 11:59:53,482 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.2/lucene-queryparser-5.5.2.pom
+2018-08-23 11:59:53,651 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.2/lucene-queries-5.5.2.pom
+2018-08-23 11:59:53,674 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.2/lucene-queries-5.5.2.pom
+2018-08-23 11:59:53,836 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.2/lucene-queries-5.5.2.pom
+2018-08-23 11:59:53,866 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.2/lucene-queries-5.5.2.pom
+2018-08-23 11:59:53,877 [Worker-22: reload maven project] WARN  o.e.a.i.i.DefaultUpdateCheckManager - Failed to write tracking file C:\Users\Neetesh\.m2\repository\org\apache\lucene\lucene-queries\5.5.2\lucene-queries-5.5.2.pom.lastUpdated
+java.io.FileNotFoundException: C:\Users\Neetesh\.m2\repository\org\apache\lucene\lucene-queries\5.5.2\lucene-queries-5.5.2.pom.lastUpdated (Access is denied)
+	at java.io.RandomAccessFile.open0(Native Method) ~[na:1.8.0_181]
+	at java.io.RandomAccessFile.open(Unknown Source) ~[na:1.8.0_181]
+	at java.io.RandomAccessFile.<init>(Unknown Source) ~[na:1.8.0_181]
+	at org.eclipse.aether.internal.impl.TrackingFileManager.update(TrackingFileManager.java:105) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write(DefaultUpdateCheckManager.java:615) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact(DefaultUpdateCheckManager.java:551) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:623) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:513) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:399) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:224) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:201) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.loadPom(DefaultArtifactDescriptorReader.java:261) [maven-resolver-provider-3.5.3.jar:3.5.3]
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.readArtifactDescriptor(DefaultArtifactDescriptorReader.java:192) [maven-resolver-provider-3.5.3.jar:3.5.3]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.resolveCachedArtifactDescriptor(DefaultDependencyCollector.java:539) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.getArtifactDescriptorResult(DefaultDependencyCollector.java:522) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:411) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:507) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:460) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:507) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:460) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:507) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:460) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:256) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:282) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.apache.maven.project.DefaultProjectDependenciesResolver.resolve(DefaultProjectDependenciesResolver.java:169) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.resolveDependencies(DefaultProjectBuilder.java:212) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:185) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:116) [maven-core-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:794) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1010) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:5065) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:5060) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1008) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) [org.eclipse.m2e.core.ui_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:740) [org.eclipse.m2e.editor_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1074) [org.eclipse.m2e.editor_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-08-23 11:59:54,037 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.2/lucene-sandbox-5.5.2.pom
+2018-08-23 11:59:54,071 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.2/lucene-sandbox-5.5.2.pom
+2018-08-23 11:59:54,246 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.2/lucene-sandbox-5.5.2.pom
+2018-08-23 11:59:54,262 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.2/lucene-sandbox-5.5.2.pom
+2018-08-23 11:59:54,273 [Worker-22: reload maven project] WARN  o.e.a.i.i.DefaultUpdateCheckManager - Failed to write tracking file C:\Users\Neetesh\.m2\repository\org\apache\lucene\lucene-sandbox\5.5.2\lucene-sandbox-5.5.2.pom.lastUpdated
+java.io.FileNotFoundException: C:\Users\Neetesh\.m2\repository\org\apache\lucene\lucene-sandbox\5.5.2\lucene-sandbox-5.5.2.pom.lastUpdated (Access is denied)
+	at java.io.RandomAccessFile.open0(Native Method) ~[na:1.8.0_181]
+	at java.io.RandomAccessFile.open(Unknown Source) ~[na:1.8.0_181]
+	at java.io.RandomAccessFile.<init>(Unknown Source) ~[na:1.8.0_181]
+	at org.eclipse.aether.internal.impl.TrackingFileManager.update(TrackingFileManager.java:105) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write(DefaultUpdateCheckManager.java:615) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact(DefaultUpdateCheckManager.java:551) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:623) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:513) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:399) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:224) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:201) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.loadPom(DefaultArtifactDescriptorReader.java:261) [maven-resolver-provider-3.5.3.jar:3.5.3]
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.readArtifactDescriptor(DefaultArtifactDescriptorReader.java:192) [maven-resolver-provider-3.5.3.jar:3.5.3]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.resolveCachedArtifactDescriptor(DefaultDependencyCollector.java:539) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.getArtifactDescriptorResult(DefaultDependencyCollector.java:522) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:411) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:507) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:460) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:507) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:460) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:507) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:460) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:256) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:282) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.apache.maven.project.DefaultProjectDependenciesResolver.resolve(DefaultProjectDependenciesResolver.java:169) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.resolveDependencies(DefaultProjectBuilder.java:212) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:185) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:116) [maven-core-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:794) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1010) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:5065) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:5060) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1008) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) [org.eclipse.m2e.core.ui_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:740) [org.eclipse.m2e.editor_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1074) [org.eclipse.m2e.editor_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-08-23 11:59:54,450 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.pom
+2018-08-23 11:59:54,470 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.pom
+2018-08-23 11:59:54,640 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.pom
+2018-08-23 11:59:54,646 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.pom
+2018-08-23 11:59:54,804 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.16.RELEASE/spring-core-4.3.16.RELEASE.pom
+2018-08-23 11:59:54,819 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.16.RELEASE/spring-core-4.3.16.RELEASE.pom
+2018-08-23 11:59:54,979 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.16.RELEASE/spring-core-4.3.16.RELEASE.pom
+2018-08-23 11:59:55,014 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.16.RELEASE/spring-core-4.3.16.RELEASE.pom
+2018-08-23 11:59:55,345 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.16.RELEASE/spring-aop-4.3.16.RELEASE.pom
+2018-08-23 11:59:55,351 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.16.RELEASE/spring-aop-4.3.16.RELEASE.pom
+2018-08-23 11:59:55,541 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.16.RELEASE/spring-aop-4.3.16.RELEASE.pom
+2018-08-23 11:59:55,554 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.16.RELEASE/spring-aop-4.3.16.RELEASE.pom
+2018-08-23 11:59:55,730 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE.pom
+2018-08-23 11:59:55,741 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE.pom
+2018-08-23 11:59:55,925 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE.pom
+2018-08-23 11:59:55,941 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE.pom
+2018-08-23 11:59:56,025 [Worker-22: reload maven project] WARN  o.e.a.i.i.DefaultUpdateCheckManager - Failed to write tracking file C:\Users\Neetesh\.m2\repository\org\springframework\spring-beans\4.3.16.RELEASE\spring-beans-4.3.16.RELEASE.pom.lastUpdated
+java.io.FileNotFoundException: C:\Users\Neetesh\.m2\repository\org\springframework\spring-beans\4.3.16.RELEASE\spring-beans-4.3.16.RELEASE.pom.lastUpdated (Access is denied)
+	at java.io.RandomAccessFile.open0(Native Method) ~[na:1.8.0_181]
+	at java.io.RandomAccessFile.open(Unknown Source) ~[na:1.8.0_181]
+	at java.io.RandomAccessFile.<init>(Unknown Source) ~[na:1.8.0_181]
+	at org.eclipse.aether.internal.impl.TrackingFileManager.update(TrackingFileManager.java:105) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write(DefaultUpdateCheckManager.java:615) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact(DefaultUpdateCheckManager.java:551) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:623) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:513) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:399) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:224) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:201) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.loadPom(DefaultArtifactDescriptorReader.java:261) [maven-resolver-provider-3.5.3.jar:3.5.3]
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.readArtifactDescriptor(DefaultArtifactDescriptorReader.java:192) [maven-resolver-provider-3.5.3.jar:3.5.3]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.resolveCachedArtifactDescriptor(DefaultDependencyCollector.java:539) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.getArtifactDescriptorResult(DefaultDependencyCollector.java:522) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:411) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:507) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:460) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:507) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:460) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:256) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:282) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.apache.maven.project.DefaultProjectDependenciesResolver.resolve(DefaultProjectDependenciesResolver.java:169) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.resolveDependencies(DefaultProjectBuilder.java:212) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:185) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:116) [maven-core-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:794) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1010) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:5065) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:5060) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1008) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) [org.eclipse.m2e.core.ui_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:740) [org.eclipse.m2e.editor_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1074) [org.eclipse.m2e.editor_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-08-23 11:59:56,169 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE.pom
+2018-08-23 11:59:56,188 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE.pom
+2018-08-23 11:59:56,357 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE.pom
+2018-08-23 11:59:56,379 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE.pom
+2018-08-23 11:59:56,538 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.16.RELEASE/spring-expression-4.3.16.RELEASE.pom
+2018-08-23 11:59:56,556 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.16.RELEASE/spring-expression-4.3.16.RELEASE.pom
+2018-08-23 11:59:56,705 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.16.RELEASE/spring-expression-4.3.16.RELEASE.pom
+2018-08-23 11:59:56,729 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.16.RELEASE/spring-expression-4.3.16.RELEASE.pom
+2018-08-23 11:59:56,742 [Worker-22: reload maven project] WARN  o.e.a.i.i.DefaultUpdateCheckManager - Failed to write tracking file C:\Users\Neetesh\.m2\repository\org\springframework\spring-expression\4.3.16.RELEASE\spring-expression-4.3.16.RELEASE.pom.lastUpdated
+java.io.FileNotFoundException: C:\Users\Neetesh\.m2\repository\org\springframework\spring-expression\4.3.16.RELEASE\spring-expression-4.3.16.RELEASE.pom.lastUpdated (Access is denied)
+	at java.io.RandomAccessFile.open0(Native Method) ~[na:1.8.0_181]
+	at java.io.RandomAccessFile.open(Unknown Source) ~[na:1.8.0_181]
+	at java.io.RandomAccessFile.<init>(Unknown Source) ~[na:1.8.0_181]
+	at org.eclipse.aether.internal.impl.TrackingFileManager.update(TrackingFileManager.java:105) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write(DefaultUpdateCheckManager.java:615) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact(DefaultUpdateCheckManager.java:551) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:623) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:513) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:399) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:224) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:201) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.loadPom(DefaultArtifactDescriptorReader.java:261) [maven-resolver-provider-3.5.3.jar:3.5.3]
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.readArtifactDescriptor(DefaultArtifactDescriptorReader.java:192) [maven-resolver-provider-3.5.3.jar:3.5.3]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.resolveCachedArtifactDescriptor(DefaultDependencyCollector.java:539) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.getArtifactDescriptorResult(DefaultDependencyCollector.java:522) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:411) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:507) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:460) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:507) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:460) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:256) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:282) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.apache.maven.project.DefaultProjectDependenciesResolver.resolve(DefaultProjectDependenciesResolver.java:169) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.resolveDependencies(DefaultProjectBuilder.java:212) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:185) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:116) [maven-core-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:794) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1010) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:5065) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:5060) [com.google.guava_21.0.0.v20170206-1425.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1008) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) [org.eclipse.m2e.core.ui_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:740) [org.eclipse.m2e.editor_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1074) [org.eclipse.m2e.editor_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-08-23 11:59:56,900 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.16.RELEASE/spring-tx-4.3.16.RELEASE.pom
+2018-08-23 11:59:56,931 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.16.RELEASE/spring-tx-4.3.16.RELEASE.pom
+2018-08-23 11:59:57,092 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.16.RELEASE/spring-tx-4.3.16.RELEASE.pom
+2018-08-23 11:59:57,120 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.16.RELEASE/spring-tx-4.3.16.RELEASE.pom
+2018-08-23 11:59:57,271 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.16.RELEASE/spring-jdbc-4.3.16.RELEASE.pom
+2018-08-23 11:59:57,307 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.16.RELEASE/spring-jdbc-4.3.16.RELEASE.pom
+2018-08-23 11:59:57,492 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.16.RELEASE/spring-jdbc-4.3.16.RELEASE.pom
+2018-08-23 11:59:57,503 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.16.RELEASE/spring-jdbc-4.3.16.RELEASE.pom
+2018-08-23 11:59:57,893 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2018-08-23 11:59:57,919 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2018-08-23 11:59:58,114 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2018-08-23 11:59:58,141 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2018-08-23 11:59:58,149 [Worker-26: Building workspace] WARN  o.e.a.i.i.DefaultUpdateCheckManager - Failed to write tracking file C:\Users\Neetesh\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.pom.lastUpdated
+java.io.FileNotFoundException: C:\Users\Neetesh\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.pom.lastUpdated (Access is denied)
+	at java.io.RandomAccessFile.open0(Native Method) ~[na:1.8.0_181]
+	at java.io.RandomAccessFile.open(Unknown Source) ~[na:1.8.0_181]
+	at java.io.RandomAccessFile.<init>(Unknown Source) ~[na:1.8.0_181]
+	at org.eclipse.aether.internal.impl.TrackingFileManager.update(TrackingFileManager.java:105) ~[maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.write(DefaultUpdateCheckManager.java:615) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.touchArtifact(DefaultUpdateCheckManager.java:551) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.evaluateDownloads(DefaultArtifactResolver.java:623) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:513) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:399) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:224) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:201) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.loadPom(DefaultArtifactDescriptorReader.java:261) [maven-resolver-provider-3.5.3.jar:3.5.3]
+	at org.apache.maven.repository.internal.DefaultArtifactDescriptorReader.readArtifactDescriptor(DefaultArtifactDescriptorReader.java:192) [maven-resolver-provider-3.5.3.jar:3.5.3]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.resolveCachedArtifactDescriptor(DefaultDependencyCollector.java:539) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.getArtifactDescriptorResult(DefaultDependencyCollector.java:522) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:411) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.doRecurse(DefaultDependencyCollector.java:507) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:460) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.processDependency(DefaultDependencyCollector.java:365) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.process(DefaultDependencyCollector.java:353) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultDependencyCollector.collectDependencies(DefaultDependencyCollector.java:256) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.collectDependencies(DefaultRepositorySystem.java:282) [maven-resolver-impl-1.1.1.jar:1.1.1]
+	at org.apache.maven.project.DefaultProjectDependenciesResolver.resolve(DefaultProjectDependenciesResolver.java:169) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.resolveDependencies(DefaultProjectBuilder.java:212) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:185) [maven-core-3.5.3.jar:3.5.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:116) [maven-core-3.5.3.jar:3.5.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.DefaultMavenDependencyResolver.resolveProjectDependencies(DefaultMavenDependencyResolver.java:63) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:530) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$3.call(ProjectRegistryManager.java:492) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$3.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:496) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:298) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:795) [org.eclipse.core.resources_3.13.0.v20180512-1138.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.10.0.v20180412-1130.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:216) [org.eclipse.core.resources_3.13.0.v20180512-1138.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:259) [org.eclipse.core.resources_3.13.0.v20180512-1138.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:312) [org.eclipse.core.resources_3.13.0.v20180512-1138.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.10.0.v20180412-1130.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:315) [org.eclipse.core.resources_3.13.0.v20180512-1138.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:367) [org.eclipse.core.resources_3.13.0.v20180512-1138.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:388) [org.eclipse.core.resources_3.13.0.v20180512-1138.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:142) [org.eclipse.core.resources_3.13.0.v20180512-1138.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:232) [org.eclipse.core.resources_3.13.0.v20180512-1138.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-08-23 11:59:58,294 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2018-08-23 11:59:58,323 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2018-08-23 11:59:58,508 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2018-08-23 11:59:58,574 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2018-08-23 12:00:00,085 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.6.0/ignite-core-2.6.0.jar
+2018-08-23 12:00:00,099 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.6.0/ignite-core-2.6.0.jar
+2018-08-23 12:00:05,347 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.6.0/ignite-core-2.6.0.jar
+2018-08-23 12:00:05,541 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/cache/cache-api/1.0.0/cache-api-1.0.0.jar
+2018-08-23 12:00:06,172 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/cache/cache-api/1.0.0/cache-api-1.0.0.jar
+2018-08-23 12:00:06,352 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.jar
+2018-08-23 12:00:06,721 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.jar
+2018-08-23 12:00:06,877 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/gridgain/ignite-shmem/1.0.0/ignite-shmem-1.0.0.jar
+2018-08-23 12:00:07,069 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/gridgain/ignite-shmem/1.0.0/ignite-shmem-1.0.0.jar
+2018-08-23 12:00:07,233 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.6.0/ignite-spring-2.6.0.jar
+2018-08-23 12:00:07,604 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.6.0/ignite-spring-2.6.0.jar
+2018-08-23 12:00:07,810 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.16.RELEASE/spring-core-4.3.16.RELEASE.jar
+2018-08-23 12:00:08,873 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.16.RELEASE/spring-core-4.3.16.RELEASE.jar
+2018-08-23 12:00:09,047 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.16.RELEASE/spring-aop-4.3.16.RELEASE.jar
+2018-08-23 12:00:09,565 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.16.RELEASE/spring-aop-4.3.16.RELEASE.jar
+2018-08-23 12:00:09,960 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE.jar
+2018-08-23 12:00:10,639 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE.jar
+2018-08-23 12:00:10,850 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE.jar
+2018-08-23 12:00:11,603 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE.jar
+2018-08-23 12:00:11,892 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.16.RELEASE/spring-expression-4.3.16.RELEASE.jar
+2018-08-23 12:00:12,167 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.16.RELEASE/spring-expression-4.3.16.RELEASE.jar
+2018-08-23 12:00:12,325 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.16.RELEASE/spring-tx-4.3.16.RELEASE.jar
+2018-08-23 12:00:12,628 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.16.RELEASE/spring-tx-4.3.16.RELEASE.jar
+2018-08-23 12:00:12,785 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.16.RELEASE/spring-jdbc-4.3.16.RELEASE.jar
+2018-08-23 12:00:13,406 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.16.RELEASE/spring-jdbc-4.3.16.RELEASE.jar
+2018-08-23 12:00:13,628 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2018-08-23 12:00:13,844 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2018-08-23 12:00:14,018 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/2.6.0/ignite-indexing-2.6.0.jar
+2018-08-23 12:00:14,089 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.6.0/ignite-core-2.6.0.jar
+2018-08-23 12:00:14,243 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/cache/cache-api/1.0.0/cache-api-1.0.0.jar
+2018-08-23 12:00:14,415 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/2.6.0/ignite-indexing-2.6.0.jar
+2018-08-23 12:00:14,564 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.jar
+2018-08-23 12:00:14,807 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.jar
+2018-08-23 12:00:14,960 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.2/lucene-core-5.5.2.jar
+2018-08-23 12:00:15,362 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/cache/cache-api/1.0.0/cache-api-1.0.0.jar
+2018-08-23 12:00:15,524 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.jar
+2018-08-23 12:00:15,713 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.2/lucene-core-5.5.2.jar
+2018-08-23 12:00:15,962 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.2/lucene-analyzers-common-5.5.2.jar
+2018-08-23 12:00:16,196 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.jar
+2018-08-23 12:00:16,382 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/gridgain/ignite-shmem/1.0.0/ignite-shmem-1.0.0.jar
+2018-08-23 12:00:16,590 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.2/lucene-analyzers-common-5.5.2.jar
+2018-08-23 12:00:16,595 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/gridgain/ignite-shmem/1.0.0/ignite-shmem-1.0.0.jar
+2018-08-23 12:00:16,761 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.6.0/ignite-spring-2.6.0.jar
+2018-08-23 12:00:16,766 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.2/lucene-queryparser-5.5.2.jar
+2018-08-23 12:00:17,087 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.2/lucene-queryparser-5.5.2.jar
+2018-08-23 12:00:17,236 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.2/lucene-queries-5.5.2.jar
+2018-08-23 12:00:17,287 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.6.0/ignite-spring-2.6.0.jar
+2018-08-23 12:00:17,466 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.16.RELEASE/spring-core-4.3.16.RELEASE.jar
+2018-08-23 12:00:17,569 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.2/lucene-queries-5.5.2.jar
+2018-08-23 12:00:17,729 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.2/lucene-sandbox-5.5.2.jar
+2018-08-23 12:00:17,998 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.2/lucene-sandbox-5.5.2.jar
+2018-08-23 12:00:18,158 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.jar
+2018-08-23 12:00:18,224 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.16.RELEASE/spring-core-4.3.16.RELEASE.jar
+2018-08-23 12:00:18,616 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.16.RELEASE/spring-aop-4.3.16.RELEASE.jar
+2018-08-23 12:00:19,053 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.16.RELEASE/spring-aop-4.3.16.RELEASE.jar
+2018-08-23 12:00:19,068 [Worker-22: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.jar
+2018-08-23 12:00:19,222 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE.jar
+2018-08-23 12:00:19,822 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE.jar
+2018-08-23 12:00:20,037 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE.jar
+2018-08-23 12:00:21,151 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE.jar
+2018-08-23 12:00:21,358 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.16.RELEASE/spring-expression-4.3.16.RELEASE.jar
+2018-08-23 12:00:21,739 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.16.RELEASE/spring-expression-4.3.16.RELEASE.jar
+2018-08-23 12:00:21,896 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.16.RELEASE/spring-tx-4.3.16.RELEASE.jar
+2018-08-23 12:00:22,162 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.16.RELEASE/spring-tx-4.3.16.RELEASE.jar
+2018-08-23 12:00:22,339 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.16.RELEASE/spring-jdbc-4.3.16.RELEASE.jar
+2018-08-23 12:00:22,847 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.16.RELEASE/spring-jdbc-4.3.16.RELEASE.jar
+2018-08-23 12:00:22,994 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2018-08-23 12:00:23,182 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2018-08-23 12:00:23,351 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/2.6.0/ignite-indexing-2.6.0.jar
+2018-08-23 12:00:23,767 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/2.6.0/ignite-indexing-2.6.0.jar
+2018-08-23 12:00:23,910 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.jar
+2018-08-23 12:00:24,162 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.jar
+2018-08-23 12:00:24,315 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.2/lucene-core-5.5.2.jar
+2018-08-23 12:00:25,195 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.2/lucene-core-5.5.2.jar
+2018-08-23 12:00:25,351 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.2/lucene-analyzers-common-5.5.2.jar
+2018-08-23 12:00:26,258 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.2/lucene-analyzers-common-5.5.2.jar
+2018-08-23 12:00:26,612 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.2/lucene-queryparser-5.5.2.jar
+2018-08-23 12:00:27,149 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.2/lucene-queryparser-5.5.2.jar
+2018-08-23 12:00:27,320 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.2/lucene-queries-5.5.2.jar
+2018-08-23 12:00:27,655 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.2/lucene-queries-5.5.2.jar
+2018-08-23 12:00:27,890 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.2/lucene-sandbox-5.5.2.jar
+2018-08-23 12:00:28,200 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.2/lucene-sandbox-5.5.2.jar
+2018-08-23 12:00:28,371 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.jar
+2018-08-23 12:00:29,072 [Worker-26: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195.jar
+2018-08-23 12:00:31,418 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:00:31,457 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:00:31,460 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:00:31,473 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:00:32,902 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:00:32,995 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:00:32,998 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:00:33,048 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:00:33,283 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.6.0/ignite-core-2.6.0-sources.jar
+2018-08-23 12:00:51,493 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-core/2.6.0/ignite-core-2.6.0-sources.jar
+2018-08-23 12:00:51,774 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ignite:ignite-core:2.6.0
+2018-08-23 12:00:51,939 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/cache/cache-api/1.0.0/cache-api-1.0.0-sources.jar
+2018-08-23 12:00:52,168 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/cache/cache-api/1.0.0/cache-api-1.0.0-sources.jar
+2018-08-23 12:00:52,434 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.cache:cache-api:1.0.0
+2018-08-23 12:00:52,590 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0-sources.jar
+2018-08-23 12:00:53,089 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0-sources.jar
+2018-08-23 12:00:53,782 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jetbrains:annotations:13.0
+2018-08-23 12:00:54,004 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/gridgain/ignite-shmem/1.0.0/ignite-shmem-1.0.0-sources.jar
+2018-08-23 12:00:54,461 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/gridgain/ignite-shmem/1.0.0/ignite-shmem-1.0.0-sources.jar
+2018-08-23 12:00:54,715 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.gridgain:ignite-shmem:1.0.0
+2018-08-23 12:00:54,875 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.6.0/ignite-spring-2.6.0-sources.jar
+2018-08-23 12:00:55,499 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-spring/2.6.0/ignite-spring-2.6.0-sources.jar
+2018-08-23 12:00:55,690 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ignite:ignite-spring:2.6.0
+2018-08-23 12:00:55,877 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.16.RELEASE/spring-core-4.3.16.RELEASE-sources.jar
+2018-08-23 12:00:56,392 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.16.RELEASE/spring-core-4.3.16.RELEASE-sources.jar
+2018-08-23 12:00:57,021 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:4.3.16.RELEASE
+2018-08-23 12:00:57,313 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.16.RELEASE/spring-aop-4.3.16.RELEASE-sources.jar
+2018-08-23 12:00:57,657 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.16.RELEASE/spring-aop-4.3.16.RELEASE-sources.jar
+2018-08-23 12:00:57,938 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:4.3.16.RELEASE
+2018-08-23 12:00:58,122 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE-sources.jar
+2018-08-23 12:00:58,570 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.16.RELEASE/spring-beans-4.3.16.RELEASE-sources.jar
+2018-08-23 12:00:58,784 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:4.3.16.RELEASE
+2018-08-23 12:00:58,953 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE-sources.jar
+2018-08-23 12:00:59,604 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE-sources.jar
+2018-08-23 12:00:59,866 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:4.3.16.RELEASE
+2018-08-23 12:01:00,048 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.16.RELEASE/spring-expression-4.3.16.RELEASE-sources.jar
+2018-08-23 12:01:00,355 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.16.RELEASE/spring-expression-4.3.16.RELEASE-sources.jar
+2018-08-23 12:01:00,567 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:4.3.16.RELEASE
+2018-08-23 12:01:00,754 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.16.RELEASE/spring-tx-4.3.16.RELEASE-sources.jar
+2018-08-23 12:01:01,076 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.16.RELEASE/spring-tx-4.3.16.RELEASE-sources.jar
+2018-08-23 12:01:01,293 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:4.3.16.RELEASE
+2018-08-23 12:01:01,576 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.16.RELEASE/spring-jdbc-4.3.16.RELEASE-sources.jar
+2018-08-23 12:01:02,063 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.16.RELEASE/spring-jdbc-4.3.16.RELEASE-sources.jar
+2018-08-23 12:01:02,401 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:4.3.16.RELEASE
+2018-08-23 12:01:02,551 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar
+2018-08-23 12:01:02,784 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar
+2018-08-23 12:01:03,000 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.1.1
+2018-08-23 12:01:03,192 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/2.6.0/ignite-indexing-2.6.0-sources.jar
+2018-08-23 12:01:03,747 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ignite/ignite-indexing/2.6.0/ignite-indexing-2.6.0-sources.jar
+2018-08-23 12:01:04,042 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ignite:ignite-indexing:2.6.0
+2018-08-23 12:01:04,213 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar
+2018-08-23 12:01:04,826 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar
+2018-08-23 12:01:05,367 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.11
+2018-08-23 12:01:05,523 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.2/lucene-core-5.5.2-sources.jar
+2018-08-23 12:01:06,602 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-core/5.5.2/lucene-core-5.5.2-sources.jar
+2018-08-23 12:01:07,009 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.lucene:lucene-core:5.5.2
+2018-08-23 12:01:07,175 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.2/lucene-analyzers-common-5.5.2-sources.jar
+2018-08-23 12:01:07,902 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-analyzers-common/5.5.2/lucene-analyzers-common-5.5.2-sources.jar
+2018-08-23 12:01:08,134 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.lucene:lucene-analyzers-common:5.5.2
+2018-08-23 12:01:08,335 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.2/lucene-queryparser-5.5.2-sources.jar
+2018-08-23 12:01:08,692 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queryparser/5.5.2/lucene-queryparser-5.5.2-sources.jar
+2018-08-23 12:01:08,913 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.lucene:lucene-queryparser:5.5.2
+2018-08-23 12:01:09,164 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.2/lucene-queries-5.5.2-sources.jar
+2018-08-23 12:01:09,554 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-queries/5.5.2/lucene-queries-5.5.2-sources.jar
+2018-08-23 12:01:09,769 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.lucene:lucene-queries:5.5.2
+2018-08-23 12:01:09,942 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.2/lucene-sandbox-5.5.2-sources.jar
+2018-08-23 12:01:10,298 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/lucene/lucene-sandbox/5.5.2/lucene-sandbox-5.5.2-sources.jar
+2018-08-23 12:01:10,625 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.lucene:lucene-sandbox:5.5.2
+2018-08-23 12:01:10,793 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195-sources.jar
+2018-08-23 12:01:11,377 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.195/h2-1.4.195-sources.jar
+2018-08-23 12:01:11,663 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.h2database:h2:1.4.195
+2018-08-23 12:01:11,927 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:01:11,977 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:01:11,987 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:01:11,998 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:10:19,138 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:10:19,186 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-23 12:10:19,228 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:10:19,243 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:10:40,336 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:10:40,355 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-23 12:10:40,360 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:10:40,372 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:31:41,614 [Worker-33: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:31:41,626 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-23 12:31:41,628 [Worker-33: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:31:41,636 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:31:43,524 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:31:43,533 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:31:43,534 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:31:43,546 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:32:34,072 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:32:34,286 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:32:34,293 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:32:34,304 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:35:27,661 [Worker-37: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:35:27,693 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:35:27,695 [Worker-37: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:35:27,709 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:39:03,600 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:39:03,607 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:39:03,609 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:39:03,616 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:40:50,202 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:40:50,213 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:40:50,215 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:40:50,226 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:41:21,843 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:41:21,851 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:41:21,854 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:41:21,862 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:41:26,194 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:41:26,201 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:41:26,203 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:41:26,210 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:42:18,710 [Worker-38: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:42:18,726 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:42:18,728 [Worker-38: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:42:18,744 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:44:22,569 [Worker-38: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:44:22,600 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:44:22,602 [Worker-38: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:44:22,609 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:46:42,999 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:46:43,030 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:46:43,033 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:46:43,040 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:47:04,383 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:47:04,421 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:47:04,424 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:47:04,433 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:47:18,356 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:47:18,384 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:47:18,386 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:47:18,400 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:53:55,350 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:53:55,390 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:53:55,392 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:53:55,410 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:54:18,837 [Worker-44: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:54:18,861 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:54:18,863 [Worker-44: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:54:18,877 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:54:28,970 [Worker-43: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:54:28,981 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:54:28,982 [Worker-43: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:54:28,990 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:57:55,796 [Worker-44: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:57:55,809 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:57:55,811 [Worker-44: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:57:55,821 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:58:06,572 [Worker-44: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:58:06,597 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:58:06,601 [Worker-44: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:58:06,613 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:58:57,716 [Worker-47: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:58:57,729 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 12:58:57,730 [Worker-47: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 12:58:57,742 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:00:35,291 [Worker-47: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:00:35,304 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:00:35,306 [Worker-47: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:00:35,323 [Worker-47: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:00:45,718 [Worker-48: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:00:45,729 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:00:45,732 [Worker-48: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:00:45,743 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:02:33,082 [Worker-50: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:02:33,104 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:02:33,107 [Worker-50: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:02:33,119 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:02:40,484 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:02:40,492 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:02:40,493 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:02:40,501 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:03:31,098 [Worker-52: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration MyFirstIgniteEx references non-existing project HelloWorld.
+org.eclipse.core.runtime.CoreException: Launch configuration MyFirstIgniteEx references non-existing project HelloWorld.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1742) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:222) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.10.0.v20180412-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:206) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:525) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:413) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-08-23 13:03:31,305 [Worker-52: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration MyFirstIgniteEx references non-existing project HelloWorld.
+org.eclipse.core.runtime.CoreException: Launch configuration MyFirstIgniteEx references non-existing project HelloWorld.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1742) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:222) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.10.0.v20180412-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:206) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:525) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:413) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-08-23 13:03:31,372 [Worker-52: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration MyFirstIgniteEx references non-existing project HelloWorld.
+org.eclipse.core.runtime.CoreException: Launch configuration MyFirstIgniteEx references non-existing project HelloWorld.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1742) ~[org.eclipse.jdt.launching_3.10.0.v20180606-1318.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:222) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.10.0.v20180412-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:206) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2148) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:378) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:255) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:225) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:183) [org.eclipse.debug.core_3.12.0.v20180509-0959.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.9.0.20180606-2036.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60) [org.eclipse.core.jobs_3.10.0.v20180427-1454.jar:na]
+2018-08-23 13:04:29,882 [Worker-1: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-08-23 13:06:59,587 [Worker-11: Creating project "MyFirstIgnite"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.IgniteTech:MyFirstIgnite:0.0.1-SNAPSHOT @ E:\Bizruntime\Workspace\Ignite\MyFirstIgnite\pom.xml.
+2018-08-23 13:07:00,847 [Worker-11: Creating project "MyFirstIgnite"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyFirstIgnite/src/main/java
+2018-08-23 13:07:00,849 [Worker-11: Creating project "MyFirstIgnite"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MyFirstIgnite/src/main/resources
+2018-08-23 13:07:00,850 [Worker-11: Creating project "MyFirstIgnite"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyFirstIgnite/src/test/java
+2018-08-23 13:07:00,850 [Worker-11: Creating project "MyFirstIgnite"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MyFirstIgnite/src/test/resources
+2018-08-23 13:07:01,662 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:07:01,682 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:07:01,686 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:07:01,698 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:08:21,228 [Worker-4: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.IgniteTech:MyFirstIgnite:0.0.1-SNAPSHOT @ E:\Bizruntime\Workspace\Ignite\MyFirstIgnite\pom.xml.
+2018-08-23 13:08:22,263 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:08:22,278 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:08:22,282 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:08:22,293 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:08:24,120 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:08:24,151 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:08:24,153 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:08:24,167 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:21:43,834 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:21:43,849 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:21:43,852 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:21:43,886 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:22:15,287 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:22:15,300 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:22:15,303 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:22:15,312 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:23:10,792 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:23:10,806 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:23:10,809 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:23:10,821 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:25:01,043 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:25:01,057 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:25:01,060 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:25:01,073 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:25:13,637 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:25:13,650 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:25:13,653 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:25:13,664 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:25:57,589 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:25:57,602 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:25:57,604 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:25:57,612 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:26:24,736 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:26:24,748 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:26:24,752 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:26:24,764 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:26:36,954 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:26:36,964 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:26:36,968 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:26:36,977 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:27:46,573 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:27:46,585 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:27:46,588 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:27:46,599 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:28:53,132 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:28:53,145 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:28:53,147 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:28:53,158 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:29:39,765 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:29:39,777 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 13:29:39,780 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 13:29:39,792 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 16:26:30,933 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-23 16:26:59,101 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 16:26:59,265 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-23 16:26:59,271 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-23 16:26:59,279 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

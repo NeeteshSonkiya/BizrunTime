@@ -1,0 +1,9 @@
+package com.tech.book.ticket.app.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class TicketBookingService {
+
+	
+}
