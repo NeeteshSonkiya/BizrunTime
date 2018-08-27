@@ -1,0 +1,22 @@
+package RxJava;
+
+import io.reactivex.Observable;
+
+public class OperatorExample {
+
+	String[] letters = {"a", "b", "c"};
+	static String result = "";
+	public void callScan() {
+		String result = "";
+		Observable.fromArray(letters)
+		  .scan(new StringBuilder(), StringBuilder::append)
+		  .subscribe(total -> result += total.toString());
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		OperatorExample obj = new OperatorExample();
+		obj.callScan();
+
+	}
+
+}

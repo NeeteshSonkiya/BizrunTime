@@ -1,0 +1,17 @@
+package RxJava;
+
+import io.reactivex.Observable;
+
+public class RxJavaExample1 {
+
+	public static void main(String[] args) {
+
+		String[] letters = {"a", "b", "c", "d", "e", "f", "g"};
+		String result="";
+		Observable.fromArray(letters)
+		  .map(String::toUpperCase)
+		  .subscribe(letter -> result += letter);
+		assertTrue(result.equals("ABCDEFG"));
+	}
+
+}

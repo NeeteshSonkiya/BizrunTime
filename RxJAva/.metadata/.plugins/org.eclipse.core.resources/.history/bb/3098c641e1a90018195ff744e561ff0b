@@ -1,0 +1,20 @@
+package RxJava;
+
+import io.reactivex.Observable;
+import io.reactivex.ObservableOnSubscribe;
+
+public class RxJavaExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Observable<String> myObservable = Observable.create(new Observable.OnSubscribe<String>()
+				{
+					@Override
+					public void call(Subcriber<? super String> subcriber)
+					{
+						
+					}
+				});
+	}
+
+}

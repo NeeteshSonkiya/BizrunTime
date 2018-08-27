@@ -1,0 +1,72 @@
+package RxJava;
+
+import io.reactivex.Observable;
+import io.reactivex.ObservableEmitter;
+import io.reactivex.Observer;
+import io.reactivex.disposables.Disposable;
+import io.reactivex.functions.Cancellable;
+
+public class MyObserver implements  Observer<String>{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String[] letters = {"a", "b", "c", "d", "e", "f", "g"};
+		Observable<String> observable = Observable.from(letters);
+		observable.subscribe(
+		  i -> result += i,  //OnNext
+		  Throwable::printStackTrace, //OnError
+		  () -> result += "_Completed" //OnCompleted
+		);
+		assertTrue(result.equals("abcdefg_Completed"));
+
+	}
+
+	@Override
+	public void onNext(T value) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void onError(Throwable error) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void onComplete() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void setDisposable(Disposable d) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void setCancellable(Cancellable c) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public boolean isDisposed() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public ObservableEmitter<T> serialize() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean tryOnError(Throwable t) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

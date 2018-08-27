@@ -1,0 +1,11 @@
+package RxJava;
+
+import io.reactivex.Observable;
+import io.reactivex.ObservableOnSubscribe;
+
+public class RxJavaExample {
+
+	public static void main(String[] args) {
+	}
+
+}

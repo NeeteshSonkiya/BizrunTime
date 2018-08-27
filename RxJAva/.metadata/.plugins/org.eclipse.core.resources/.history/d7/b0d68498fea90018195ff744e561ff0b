@@ -1,0 +1,20 @@
+package RxJava;
+
+import io.reactivex.Observable;
+
+public class OperatorExample {
+
+	public static String[] city = {"bangalore", "delhi", "goa", "pune", "indore"};
+	
+	public void callScan() {
+		String result = "";
+		Observable.fromArray(letters)
+		  .scan(new StringBuilder(), StringBuilder::append)
+		  .subscribe(total -> System.out.println(););
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

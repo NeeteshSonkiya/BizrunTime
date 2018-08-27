@@ -1,0 +1,21 @@
+package RxJava;
+
+import io.reactivex.Observable;
+import io.reactivex.ObservableOnSubscribe;
+
+public class RxJavaExample {
+
+	public static void main(String[] args) {
+	
+		String[] letters = {"a", "b", "c", "d", "e", "f", "g"};
+		Observable<String> observable = Observable.from(letters);
+		observable.subscribe(
+		  i -> result += i,  //OnNext
+		  Throwable::printStackTrace, //OnError
+		  () -> result += "_Completed" //OnCompleted
+		);
+		assertTrue(result.equals("abcdefg_Completed"));
+
+
+    }
+}

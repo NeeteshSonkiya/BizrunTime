@@ -1,0 +1,46 @@
+package RxJava;
+
+import java.util.Arrays;
+import java.util.Iterator;
+import java.util.List;
+
+import io.reactivex.Observable;
+
+public class Creation {
+
+	public static String[] city = {"bangalore", "delhi", "goa", "pune", "indore"};
+	public static List<String> list = Arrays.asList(city);
+
+	public void createJust()
+	{
+		Observable.just(city)
+		  .subscribe(city -> System.out.println(city),
+				  Throwable::printStackTrace,
+				  () -> System.out.println("Completed....") );
+	}
+	
+	public void createFrom()
+	{
+		Observable.fromArray(city)
+		  .map(String::toUpperCase)
+		  .subscribe(city -> System.out.println(city),
+				  Throwable::printStackTrace,
+				  () -> System.out.println("Completed....") );
+		System.out.println("--------------------------------------");
+		Observable.fromIterable(list)
+		  .map(String::toUpperCase)
+		  .subscribe(x -> System.out.println(x),
+				  Throwable::printStackTrace,
+				  () -> System.out.println("Completed....") );
+		System.out.println("---------------------------------------");
+
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Creation obj = new Creation();
+		obj.createFrom();
+		obj.createJust();
+	}
+
+}

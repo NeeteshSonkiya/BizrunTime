@@ -1,0 +1,15 @@
+package RxJava;
+
+import io.reactivex.Observable;
+
+public class RxJavaExample  implements {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Observable<String> observable = Observable.create("Welcome");
+		observable.subscribe((s) => result = s);
+		assertTrue(result.equals("Hello"));
+	}
+
+}

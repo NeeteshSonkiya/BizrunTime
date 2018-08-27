@@ -1,0 +1,21 @@
+package RxJava;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import io.reactivex.Observable;
+import io.reactivex.ObservableOnSubscribe;
+import io.reactivex.Observer;
+import io.reactivex.disposables.Disposable;
+
+public class RxJavaExample3 {
+
+	public static void main(String[] args) {
+		String[] letters = {"a", "b", "c", "d", "e", "f", "g"};
+		Observable.just(letters)
+		  .subscribe(letter -> System.out.println(letter),
+				  Throwable::printStackTrace,
+				  () -> System.out.println("Completed....") );
+	}
+	
+}

@@ -1,0 +1,18 @@
+package RxJava;
+
+import io.reactivex.Observable;
+import io.reactivex.ObservableOnSubscribe;
+
+public class RxJavaExample {
+
+	public static void main(String[] args) {
+	
+        Observable<String> myObservable = Observable.create(new Observable.OnSubscribe<String>() {
+            @Override
+            public void call(Subscriber<? super String> subscriber) {
+                //Code to pass the data to the subscribers and observers goes here.
+            }
+        });
+
+    }
+}

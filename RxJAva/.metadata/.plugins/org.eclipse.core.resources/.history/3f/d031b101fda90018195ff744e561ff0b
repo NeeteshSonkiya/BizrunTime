@@ -1,0 +1,33 @@
+package RxJava;
+
+import io.reactivex.Observable;
+
+public class RxJavaExample2 {
+
+	static String[] letters = {"a", "b", "c", "d", "e", "f", "g"};
+	public void callMap()
+	{
+		Observable.fromArray(letters)
+		  .map(String::toUpperCase)
+		  .subscribe(letter -> System.out.print(letter));
+		System.out.println("-----------------------");
+	}
+	public void callFlatMap()
+	{
+		Observable.just("book1", "book2")
+		  .flatMap(s -> getTitle())
+		  .subscribe(l -> System.out.print(l));
+		System.out.println();
+	}
+	Observable<String> getTitle() {
+	    return Observable.fromArray(letters);
+	}
+
+	public static void main(String[] args) {
+			
+		RxJavaExample2 obj = new RxJavaExample2();
+		obj.callMap();
+		obj.callFlatMap();
+	}
+
+}
