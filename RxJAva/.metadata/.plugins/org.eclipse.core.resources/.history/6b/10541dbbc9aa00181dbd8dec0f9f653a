@@ -1,0 +1,29 @@
+package RxJava;
+
+import java.util.concurrent.TimeUnit;
+
+import io.reactivex.Observable;
+import io.reactivex.subjects.BehaviorSubject;
+
+public class Disposable  {
+
+	public static void main(String[] args) throws Exception {
+		Observable<Long> observableA = Observable.interval(2000, TimeUnit.MILLISECONDS).map(value -> value);
+		Observable<Long> observableB = Observable.interval(2000, TimeUnit.MILLISECONDS).map(value -> value * 100L);
+
+		BehaviorSubject<Long> subject = BehaviorSubject.create();
+		subject.subscribe(System.out::println);
+
+		System.out.println("Subscribing to observableA");
+		observableA.subscribe(subject);
+
+		TimeUnit.SECONDS.sleep(10);
+
+		// TODO: How to unsubscribe the subject from upstream observableA before subscribing it to upstream observableB?
+
+		System.out.println("Subscribing to observableB");
+		observableB.subscribe(subject);
+
+		TimeUnit.SECONDS.sleep(2);
+	}
+}

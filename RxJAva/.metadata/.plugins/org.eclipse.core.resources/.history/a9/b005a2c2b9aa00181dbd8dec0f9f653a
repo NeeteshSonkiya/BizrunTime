@@ -1,0 +1,37 @@
+package RxJava;
+
+import io.reactivex.Observable;
+import io.reactivex.schedulers.Schedulers;
+
+public class OperatorExampl1 {
+
+	static Integer result = 0 ;
+	public void callFilter()
+	{
+		
+		Integer[] numbers = {10, 21, 30, 40, 50};
+		Observable.fromArray(numbers)
+		  .filter(i -> (i % 2 == 1))
+		  .subscribe(i -> result += i);
+		System.out.println(result);
+		  
+	}
+	
+	public void callSkip()
+	{
+		Observable<Integer> observable = Observable.fromArray(new Integer[]{1,2,3,4,5})  //emit 1 to 5
+		        .skip(2);   //Skip first two elements
+
+		observable
+		        .subscribeOn(Schedulers.newThread())
+		        .observeOn(Schedulers.io())
+		        .subscribe(new ErrObserver());
+		  
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		OperatorExampl1 obj = new OperatorExampl1();
+		obj.callFilter();
+	}
+
+}

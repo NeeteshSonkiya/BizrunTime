@@ -1,0 +1,43 @@
+<html>
+<head>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+    <script>
+                        var width = 1000;
+                        var height = 1000;
+    
+                        //Create SVG element
+        var svg = d3.select("body")
+                .append("svg")
+                .attr("width", width)
+                .attr("height", height);
+    
+                        //Create and append line
+        svg.append("line")
+                .attr("x1", 100)
+                .attr("x2", 500)
+                .attr("y1", 50)
+                .attr("y2", 250)
+                .attr("stroke", "black")
+
+        svg.append("rect")
+            .attr("x", 0)
+            .attr("y", 0)
+            .attr("fill","red")
+            .attr("width", 200)
+            .attr("height", 100)
+
+        svg.append("circle")
+            .attr("cx", 250)
+            .attr("cy", 50)
+            .attr("r", 50)
+
+        svg.append("ellipse")
+            .attr("cx", 500)
+            .attr("cy", 100)
+            .attr("rx", 150)
+            .attr("ry", 50)
+    </script>
+    </body>
+</html>

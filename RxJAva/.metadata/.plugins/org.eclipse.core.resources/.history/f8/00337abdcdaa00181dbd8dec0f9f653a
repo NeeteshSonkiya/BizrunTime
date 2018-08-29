@@ -1,0 +1,15 @@
+package RxJava;
+
+public class Disposable {
+
+	public static void main(String[] args) {
+		String[] result = {""};
+		Single<String> single = Observable.just("Hello")
+		  .toSingle()
+		  .doOnSuccess(i -> result[0] += i)
+		  .doOnError(error -> {
+		      throw new RuntimeException(error.getMessage());
+		  });
+		single.subscribe();
+	}
+}

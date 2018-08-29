@@ -1,0 +1,8 @@
+package RxJava;
+
+public class Disposable {
+
+	public static void main(String[] args) {
+		
+	}
+}

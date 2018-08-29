@@ -1,0 +1,11 @@
+package RxJava;
+
+public class DefaultIfEmpty {
+
+	public static void main(String[] args) {
+		Observable.empty()
+		  .defaultIfEmpty("Observable is empty")
+		  .subscribe(s -> result += s);
+		  
+	}
+}

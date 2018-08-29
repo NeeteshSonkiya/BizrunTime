@@ -1,0 +1,17 @@
+package RxJava;
+
+import io.reactivex.Observable;
+
+public class ErrorHandling {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ErrObserver e=new ErrObserver();
+
+		String[] arr = {"rectangle", "circle", "square", "tringle"};
+		Observable.fromArray(arr).map(null).subscribe(new ErrObserver()); 
+	  
+	}//.map(s -> Exception(s))
+    
+
+}

@@ -1,0 +1,19 @@
+﻿<!doctype html>
+<html>
+<head>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+    <div>
+        <p>First paragraph.</p>
+    </div>
+    <div class="importData"></div>
+   
+    <script>
+        d3.json("../data/suicide-squad.json", function (data) {
+            console.log(data);
+        });
+        
+    </script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+package com.bizruntime;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+public class Driver {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		List<AVariable> variables = Collections.synchronizedList(new ArrayList<AVariable>());
+		BufferedReader bufferReader = new BufferedReader(new InputStreamReader(System.in));
+		AVariable aVariable = null;
+		String varName = null;
+		Double varValue = 0.0;
+		System.out.println("---------------------------------------");
+		while (true) {
+			System.out.println("Please enter var name : ");
+			varName = bufferReader.readLine();
+			if(varName.equalsIgnoreCase("exit")) break;
+			else if (varName.isEmpty()) continue;
+			System.out.println("plz enter var value :");
+			try
+			{
+				varValue = Double.valueOf(bufferReader.readLine());
+			}
+			catch(Exception ex)
+			{
+				continue;
+			}
+			aVariable = new AVariable(varName, varValue);
+			
+			if (!variables.contains(aVariable))variables.get(variables.indexOf(aVariable)).setVarValue(aVariable.getVarValue());
+			else variables.add(aVariable);
+			variables.stream().map(x -> x.getVarName()).foreach(x -> System.out.println(x));
+			
+			System.out.println("added variables: " + variables.stream().mapToDouble(x -> x.getVarValue()).sum());
+			System.out.println("------------------------------------------------------------------");
+		
+		}
+	}
+
+}

@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+</head>
+<body>
+    <p>D3 Tutorials</p>
+    <script>
+
+    d3.select("body")
+        .select("p")
+        .datum(100)
+        .text(function (d, i) {
+            return d;
+        });
+    </script>
+</body>
+  
+
+</html>

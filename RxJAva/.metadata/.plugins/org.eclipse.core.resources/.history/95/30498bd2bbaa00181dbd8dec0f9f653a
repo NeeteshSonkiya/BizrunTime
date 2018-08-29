@@ -1,0 +1,14 @@
+package RxJava;
+
+import io.reactivex.Observable;
+
+public class Conditional {
+
+	public static void main(String[] args) {
+		String [] letters = {"a", "b", "c", "d", "e"};
+		Observable.fromArray(letters)
+		  .defaultIfEmpty("Observable is empty")
+		  .first()
+		  .subscribe(s -> result += s);
+	}
+}

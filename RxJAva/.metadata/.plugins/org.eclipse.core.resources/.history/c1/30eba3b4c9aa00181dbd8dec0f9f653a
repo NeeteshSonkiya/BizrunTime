@@ -1,0 +1,17 @@
+package RxJava;
+
+public class Disposable {
+
+	public static void main(String[] args) {
+		Observable acquireResource = Observable.defer(() -> {
+		    MyResource resource = MyResource.acquire();
+		    System.out.println("Acquired the resource");
+		    return Observable
+		        .never()
+		        .doOnUnsubscribe(() -> {
+		            MyResource.release(resource)
+		            System.out.println("Released the resource");
+		        });
+		    });
+	}
+}

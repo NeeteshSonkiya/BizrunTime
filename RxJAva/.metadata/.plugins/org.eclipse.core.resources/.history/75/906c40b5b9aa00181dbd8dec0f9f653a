@@ -1,0 +1,34 @@
+package RxJava;
+
+import io.reactivex.Observable;
+
+public class OperatorExampl1 {
+
+	static Integer result = 0 ;
+	public void callFilter()
+	{
+		
+		Integer[] numbers = {10, 21, 30, 40, 50};
+		Observable.fromArray(numbers)
+		  .filter(i -> (i % 2 == 1))
+		  .subscribe(i -> result += i);
+		System.out.println(result);
+		  
+	}
+	
+	public void callDefaultIfEmpty()
+	{
+		Integer[] numbers = {10, 21, 30, 40, 50};
+		Observable.fromArray(numbers)
+		  .defaultIfEmpty()
+		  .first()
+		  .subscribe(s -> result += s);
+		  
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		OperatorExampl1 obj = new OperatorExampl1();
+		obj.callFilter();
+	}
+
+}
